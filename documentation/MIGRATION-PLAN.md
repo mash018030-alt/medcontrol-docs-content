@@ -71,21 +71,13 @@ JSON-конфиги + картинки в контент-репо.
 ## Целевая структура контент-репозитория (после полной миграции)
 
 ```text
-content/   # фактически корень этого репо сейчас
+корень репозитория
   README.md
-  docs/                     # эта документация по миграции и архив чата
-  config/                   # после шагов 3–4
-    nav.json
-    dashboard.json
-    ...
-  obshee/
-  admin/
-  medkabinet/
-  medadmin/
-  glossariy/
-  News/
-  images/
-  reference/                # если остаётся в продукте
+  documentation/     # план миграции, архив чата, REPO-STRUCTURE
+  docs/                # контент сайта: glossary, obshee, admin, medkabinet, medadmin
+  news/
+  references/        # не страницы сайта
+  config/              # опционально после выноса nav и т.д.
 ```
 
 На этапе первого импорта достаточно текущего дерева без `config/`.
