@@ -16,7 +16,7 @@
 <tr><td>Таймаут на решение</td><td><ul class="docs-metric-list"><li class="docs-good">0 шт. – хорошо;</li><li class="docs-normal">0-2 шт. – нормально;</li><li class="docs-bad">&gt; 2 шт. – плохо.</li></ul></td></tr>
 </tbody>
 </table>
-<p><img src="/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/image14.png" alt="Настройки нежелательных событий" /></p>
+<p><img src="/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/01-tablica-nezhelatelnye-sobytiya.png" alt="Настройки нежелательных событий" /></p>
 </details>
 
 ## Целевые показатели
@@ -35,7 +35,7 @@
 <tr><td>Эффективность</td><td><ul class="docs-metric-list"><li class="docs-bad">Плохо: &lt; 20 шт;</li><li class="docs-normal">Норма: 20 - 60 шт;</li><li class="docs-good">Хорошо: &gt; 60 шт.</li></ul></td></tr>
 </tbody>
 </table>
-<p><img src="/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/image1.png" alt="Целевые показатели" /></p>
+<p><img src="/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/02-tablica-celevye-pokazateli.png" alt="Целевые показатели" /></p>
 </details>
 
 ## Настройка
@@ -43,12 +43,12 @@
 
 1. Нажать иконку редактирования.
 
-![image10.png](/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/image10.png)
+![03-knopka-redaktirovaniya-nastroek.png](/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/03-knopka-redaktirovaniya-nastroek.png)
 
 
 2. Передвинуть бегунки показателей на требуемое время или количество.
 
-![image15.png](/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/image15.png)
+![04-begunki-pokazateley.png](/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/04-begunki-pokazateley.png)
 
 
 3. Нажать «Сохранить» и в случае наличия дочерних организаций – «Да, хочу внести изменения».
@@ -57,8 +57,8 @@
 <input type="radio" name="carousel-nastroyka-3" id="carousel-nastroyka-3-1" checked>
 <input type="radio" name="carousel-nastroyka-3" id="carousel-nastroyka-3-2">
 <div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/image18.png" alt="Настройка: отключение ассистента" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/image19.png" alt="Подтверждение: изменения повлияют на дочерние организации" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/05-dialog-otklyucheniya-assistenta.png" alt="Настройка: отключение ассистента" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/4_medadmin/images/01_nastroyki-medorganizacii/06-dialog-podtverzhdenie-dochernih-organizaciy.png" alt="Подтверждение: изменения повлияют на дочерние организации" /></div>
 </div>
 <div class="docs-carousel-nav">
 <label for="carousel-nastroyka-3-1" class="docs-carousel-arrow docs-carousel-arrow-prev" aria-label="Предыдущий слайд">‹</label>
