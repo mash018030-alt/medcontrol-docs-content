@@ -7,9 +7,9 @@
 1. При нажатии на кнопку «Отправить на подпись повторно» документ отправляется на повторную подпись медработнику, принявшему решение по данному осмотру.
 2. По кнопке «Переформировать» медадминистратор переформирует документы по осмотру на своё имя, предварительно оценив данные осмотра.
 
-![image11.png](/content/images/medadmin/image11.png)
+![image11.png](/content/0_docs/4_medadmin/images/03_pereformirovanie-dokumenta/image11.png)
 
 
 Также все неподписанные документы отображаются в разделе «Документы» – вкладка «Исходящие» с фильтром «Не подписан».
 
-![image16.png](/content/images/medadmin/image16.png)
+![image16.png](/content/0_docs/4_medadmin/images/03_pereformirovanie-dokumenta/image16.png)

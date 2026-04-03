@@ -8,7 +8,7 @@
 
 | Файл | Назначение |
 |------|------------|
-| [documentation/REPO-STRUCTURE.md](documentation/REPO-STRUCTURE.md) | **Словарь имён, этапы 1–3, с чего начать** (каркас `docs/`/`news/`, затем админка) |
+| [documentation/REPO-STRUCTURE.md](documentation/REPO-STRUCTURE.md) | **Словарь имён, этапы 1–3, с чего начать** (каркас `docs/`/`news/`, затем раздел «Администрирование» и остальные по шаблону) |
 | [documentation/MIGRATION-PLAN.md](documentation/MIGRATION-PLAN.md) | План разделения движок/контент, чек-листы, риски |
 | [documentation/CHAT-TRANSCRIPT.md](documentation/CHAT-TRANSCRIPT.md) | Архив переписки с Cursor |
 | [references/README.md](references/README.md) | Референсы и вспомогательные материалы (не страницы сайта) |

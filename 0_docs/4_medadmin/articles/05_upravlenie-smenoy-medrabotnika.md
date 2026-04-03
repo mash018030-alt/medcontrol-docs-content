@@ -4,9 +4,9 @@
 
 Для завершения смены нужно открыть карточку медработника, перейти на вкладку «Смены» и нажать «Завершить смену».
 
-![image17.png](/content/images/medadmin/image17.png)
+![image17.png](/content/0_docs/4_medadmin/images/05_upravlenie-smenoy-medrabotnika/image17.png)
 
 
 В окне закрытия смены отобразится фактическая и запланированная длительность смены. Для подтверждения действия нужно нажать «Да, принудительно завершить смену».
 
-![image4.png](/content/images/medadmin/image4.png)
+![image4.png](/content/0_docs/4_medadmin/images/05_upravlenie-smenoy-medrabotnika/image4.png)

@@ -2,9 +2,9 @@
 
 Медицинский администратор может получать уведомления о неподписанных документах по осмотру. Подписание может не произойти, например, из-за технических сбоев.
 
-![image8.png](/content/images/medadmin/image8.png)
+![image8.png](/content/0_docs/4_medadmin/images/02_uvedomleniya-o-nepodpisannyh-dokumentah/image8.png)
 
 
 Такой тип уведомления настраивается по аналогии с другими подписками – через карточку пользователя по кнопке «Добавить» или в настройках организации. Для получения уведомлений при настройке подписки и добавлении правила нужно выбрать событие и нужные каналы оповещений.
 
-![image13.png](/content/images/medadmin/image13.png)
+![image13.png](/content/0_docs/4_medadmin/images/02_uvedomleniya-o-nepodpisannyh-dokumentah/image13.png)

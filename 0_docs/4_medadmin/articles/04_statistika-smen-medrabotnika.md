@@ -16,19 +16,19 @@
 <li><span class="docs-bad">красный</span> – фактическое время смены значительно отличается от запланированного.</li>
 </ul>
 
-![image5.png](/content/images/medadmin/image5.png)
+![image5.png](/content/0_docs/4_medadmin/images/04_statistika-smen-medrabotnika/image5.png)
 
 
 3. Основные события смены: начало и завершение смены, работа с осмотрами.
 
-![image12.png](/content/images/medadmin/image12.png)
+![image12.png](/content/0_docs/4_medadmin/images/04_statistika-smen-medrabotnika/image12.png)
 
 
 4. Нежелательные события: таймауты на взятие осмотра, в работу, на принятие решения, отключение ассистента.
 5. Показатели эффективности: занятость, утилизация, эффективность.
 6. Показатели скорости: время взятия осмотра, время принятия решения.
 
-![image2.png](/content/images/medadmin/image2.png)
+![image2.png](/content/0_docs/4_medadmin/images/04_statistika-smen-medrabotnika/image2.png)
 
 
 Также эти данные доступны в отчёте «Статистика смен».
