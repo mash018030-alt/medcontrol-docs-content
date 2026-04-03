@@ -6,39 +6,39 @@
 
 - В разделе «ПАК» – кнопка «Добавить»:
 
-![image15.png](/content/images/admin/image15.png)
+![image15.png](/content/0_docs/admin/images/pak/01-razdel-dobavit-pak.png)
 
 - В карточке организации по кнопке «Добавить» – «Добавить ПАК».
 
-![image3.png](/content/images/admin/image3.png)
+![image3.png](/content/0_docs/admin/images/pak/02-kartochka-dobavit-pak.png)
 
 Если пользователю предоставлен доступ к нескольким организациям, при создании через раздел «ПАК» потребуется выбрать нужную организацию.
 
-![image6.png](/content/images/admin/image6.png)
+![image6.png](/content/0_docs/admin/images/pak/03-vybor-organizacii.png)
 
 При создании через карточку ПАК организация указана автоматически.
 
-![image45.png](/content/images/admin/image45.png)
+![image45.png](/content/0_docs/admin/images/pak/04-organizaciya-avtomaticheski.png)
 
 Далее нужно указать количество создаваемых ПАК и требуемый срок действия QR-кода. Этот код будет отсканирован камерой ПАК для сопряжения.
 
-![image54.png](/content/images/admin/image54.png)
+![image54.png](/content/0_docs/admin/images/pak/05-kolichestvo-pak-i-qr.png)
 
 После нажатия кнопки «Добавить» появится карточка ПАК с временным названием ПАК и данными для сопряжения – QR-кодом, адресом сервера и id ПАК.
 
-![image8.png](/content/images/admin/image8.png)
+![image8.png](/content/0_docs/admin/images/pak/06-kartochka-pak-qr.png)
 
 Несопряжённый ПАК можно найти в карточке организации на вкладке «ПАК» по фильтру «Ожидает сопряжения».
 
-![image46.png](/content/images/admin/image46.png)
+![image46.png](/content/0_docs/admin/images/pak/07-filtr-ozhidaet-sopryazheniya.png)
 
 До окончания срока действия QR-код нужно отсканировать камерой нового ПАК для сопряжения. После сопряжения временное имя ПАК изменится на постоянное, появится статус «Подключен».
 
-![image39.png](/content/images/admin/image39.png)
+![image39.png](/content/0_docs/admin/images/pak/08-posle-sopryazheniya.png)
 
 Также для сопряжения вместо сканирования QR-кода на ПАК можно ввести данные сервера и id ПАК.
 
-![image40.png](/content/images/admin/image40.png)
+![image40.png](/content/0_docs/admin/images/pak/09-vvod-servera-i-id.png)
 
 ## Действия с ПАК
 
@@ -49,7 +49,7 @@
 3.  Отвязать ПАК от организации.
 4.  Деактивировать ПАК.
 
-![image7.png](/content/images/admin/image7.png)
+![image7.png](/content/0_docs/admin/images/pak/10-dejstviya-s-pak.png)
 
 ## Настройки ПАК
 
@@ -59,24 +59,24 @@
 2.  Допустимое количество отказов от обновления.
 3.  Режим печати талонов.
 
-![image25.png](/content/images/admin/image25.png)
+![image25.png](/content/0_docs/admin/images/pak/11-nastrojki-pak.png)
 
 Для редактирования настроек нужно:
 
 1.  На вкладке «Настройки» нажать на соответствующую иконку в нужном поле.
 
-![image48.png](/content/images/admin/image48.png)
+![image48.png](/content/0_docs/admin/images/pak/12-redaktirovanie-polya.png)
 
 2.  Внести изменения и нажать «Сохранить».
 
-![image9.png](/content/images/admin/image9.png)
+![image9.png](/content/0_docs/admin/images/pak/13-sohranit-nastrojki.png)
 
 При необходимости настройки можно быстро сбросить к значениям по умолчанию.
 
-![image57.png](/content/images/admin/image57.png)
+![image57.png](/content/0_docs/admin/images/pak/14-sbros-nastroek.png)
 
 ## История изменений
 
 Также пользователям с административным доступом отображается вкладка «История изменений» в карточке ПАК. Там можно увидеть, какие изменения с ПАК произошли, кто их совершил и когда.
 
-![image13.png](/content/images/admin/image13.png)
+![image13.png](/content/0_docs/admin/images/pak/15-istoriya-izmenenij.png)

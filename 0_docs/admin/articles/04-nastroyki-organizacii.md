@@ -2,7 +2,7 @@
 
 Пользователи с административным доступом могут не только просматривать настройки организации, но и менять их.
 
-![image43.png](/content/images/admin/image43.png)
+![image43.png](/content/0_docs/admin/images/nastroyki-organizacii/01-vkladka-osnovnye.png)
 
 ## Основные настройки
 
@@ -19,19 +19,19 @@
 2.  Настройка максимального количества символов в табельном номере.
 3.  Отметка «Содержит только цифры» не допускает использования букв и/или символов в формате табельного номера.
 
-![image20.png](/content/images/admin/image20.png)
+![image20.png](/content/0_docs/admin/images/nastroyki-organizacii/02-tabnyj-nomer-okno.png)
 
 3.  Нажать «Сохранить», ознакомиться с предупреждением о том, что настройки применятся и к дочерним организациям, кликнуть «Да, я хочу внести изменения».
 
-![image26.png](/content/images/admin/image26.png)
+![image26.png](/content/0_docs/admin/images/nastroyki-organizacii/03-tabnyj-nomer-sohranit.png)
 
 При редактировании вкладки «Продвинутая настройка» можно указать регулярное выражение, чтобы задать сложное правило валидации табельного номера.
 
-![image23.png](/content/images/admin/image23.png)
+![image23.png](/content/0_docs/admin/images/nastroyki-organizacii/04-tabnyj-nomer-prodvinutaya.png)
 
 Вернуть параметры к изначальным можно с помощью кнопки «Сбросить настройки».
 
-![image2.png](/content/images/admin/image2.png)
+![image2.png](/content/0_docs/admin/images/nastroyki-organizacii/05-tabnyj-nomer-sbros.png)
 
 ## Виды осмотров
 
@@ -53,15 +53,15 @@
 
 1.  В блоке «Виды осмотров» нажать на иконку редактирования.
 
-![image42.png](/content/images/admin/image42.png)
+![image42.png](/content/0_docs/admin/images/nastroyki-organizacii/06-vidy-osmotrov-redaktirovanie.png)
 
 2.  Выбрать необходимые виды осмотров (удалить ненужные/добавить новые). При перемещении карточки вида осмотра (выше/ниже) будет меняться последовательность видов осмотра на ПАК – согласно указанной в настройках. Нажать «Сохранить» и «Да, хочу внести изменения».
 
-![image36.png](/content/images/admin/image36.png)
+![image36.png](/content/0_docs/admin/images/nastroyki-organizacii/07-vidy-osmotrov-vybor.png)
 
 Кнопка «Сбросить настройки» возвращает виды доступных осмотров к настройкам по умолчанию.
 
-![image53.png](/content/images/admin/image53.png)
+![image53.png](/content/0_docs/admin/images/nastroyki-organizacii/08-vidy-osmotrov-sbros.png)
 
 ## Способы авторизации на ПАК
 
@@ -69,22 +69,22 @@
 
 1.  В блоке «Способы авторизации на ПАК» нажать на иконку редактирования.
 
-![image16.png](/content/images/admin/image16.png)
+![image16.png](/content/0_docs/admin/images/nastroyki-organizacii/09-auth-pak-redaktirovanie.png)
 
 2.  В открывшемся окне изменить настройки авторизации.
 
 1.  При перетягивании карточки способа авторизации будет меняться последовательность способов авторизации на ПАК – согласно последовательности, указанной в настройках.
 2.  Кнопка Х удаляет способ авторизации на ПАК – пользователям организации не будет доступен удалённый способ авторизации.
 
-![image50.png](/content/images/admin/image50.png)
+![image50.png](/content/0_docs/admin/images/nastroyki-organizacii/10-auth-pak-okno.png)
 
 3.  Нажать «Сохранить» и «Да, хочу внести изменения».
 
-![image56.png](/content/images/admin/image56.png)
+![image56.png](/content/0_docs/admin/images/nastroyki-organizacii/11-auth-pak-sohranit.png)
 
 4.  Кнопка «Сбросить настройки» возвращает способы авторизации к настройкам по умолчанию.
 
-![image21.png](/content/images/admin/image21.png)
+![image21.png](/content/0_docs/admin/images/nastroyki-organizacii/12-auth-pak-sbros.png)
 
 ## Гостевой доступ
 
@@ -94,12 +94,12 @@
 
 1.  На вкладке «Гостевой доступ» нажать на кнопку «Изменить» или «Управлять» (если до этого настроек не было).
 
-![image24.png](/content/images/admin/image24.png)
+![image24.png](/content/0_docs/admin/images/nastroyki-organizacii/13-gostevoj-dostup.png)
 
 2.  В открывшемся окне выбрать организацию, работники которой смогут проходить осмотры на ПАК.
 
-![image49.png](/content/images/admin/image49.png)
+![image49.png](/content/0_docs/admin/images/nastroyki-organizacii/14-gostevoj-organizaciya.png)
 
 3.  Нажать «Сохранить».
 
-![image47.png](/content/images/admin/image47.png)
+![image47.png](/content/0_docs/admin/images/nastroyki-organizacii/15-gostevoj-sohranit.png)

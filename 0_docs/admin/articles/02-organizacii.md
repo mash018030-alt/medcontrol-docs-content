@@ -10,11 +10,11 @@
 
 1.  Открыть раздел «Организации» и нажать кнопку «Добавить».
 
-![image5.png](/content/images/admin/image5.png)
+![image5.png](/content/0_docs/admin/images/organizacii/01-razdel-knopka-dobavit.png)
 
 2.  Выбрать тип организации.
 
-![image32.png](/content/images/admin/image32.png)
+![image32.png](/content/0_docs/admin/images/organizacii/02-vybor-tipa-organizacii.png)
 
 3.  Заполнить данные:
 
@@ -25,27 +25,27 @@
 - контакты – телефон, e-mail, индекс, юридический адрес;
 - переключить в активное положение чекбокс «Тестовая», если нужно создать дочернюю организацию в тестовом режиме и родительская организация не является тестовой.
 
-![image35.png](/content/images/admin/image35.png)
+![image35.png](/content/0_docs/admin/images/organizacii/03-forma-osnovnye-dannye.png)
 
 4.  Выбрать платежный профиль – какое юр.лицо оплачивать осмотры организации. По умолчанию наследуется платежный профиль головной организации. Этот пункт можно пропустить и добавить позже при редактировании в карточке уже созданной организации.
 
-![image38.png](/content/images/admin/image38.png)
+![image38.png](/content/0_docs/admin/images/organizacii/04-platezhnyj-profil.png)
 
 5.  Если компания медицинская – заполнить данные профиля медоператора. Если критерии SLA отличаются от значений по умолчанию, можно добавить дополнительную категорию обслуживания с необходимыми параметрами SLA. Профиль медоператора можно добавить позже, при редактировании карточки уже созданной организации.
 
-![image17.png](/content/images/admin/image17.png)
+![image17.png](/content/0_docs/admin/images/organizacii/05-profil-medoperatora.png)
 
 6.  Если компания немедицинская, добавить профиль медобслуживания – какое юр.лицо будет обрабатывать осмотры организации. Этот пункт можно пропустить и добавить позже при редактировании. Если указать две медорганизации, первая будет помечена как Основная – внести изменения можно будет также при редактировании организации.
 
-![image34.png](/content/images/admin/image34.png)
+![image34.png](/content/0_docs/admin/images/organizacii/06-profil-medservisa.png)
 
 7.  Профиль точки выпуска – фактический адрес или GPS-координаты места прохождения осмотров (при необходимости). Этот пункт можно пропустить и добавить позже при редактировании.
 
-![image22.png](/content/images/admin/image22.png)
+![image22.png](/content/0_docs/admin/images/organizacii/07-tochka-vypuska.png)
 
 8.  После завершения появится сообщение об успешном добавлении, а организация появится в общем списке, в разделе «Организации».
 
-![image4.png](/content/images/admin/image4.png)
+![image4.png](/content/0_docs/admin/images/organizacii/08-uspeshnoe-dobavlenie.png)
 
 ### Создание через карточку головной организации
 
@@ -60,9 +60,9 @@
 <input type="radio" name="carousel-organizacii-kartochka" id="carousel-organizacii-kartochka-2">
 <input type="radio" name="carousel-organizacii-kartochka" id="carousel-organizacii-kartochka-3">
 <div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/images/admin/image1.png" alt="Кнопка «Добавить» и выбор «Организацию» в карточке" /></div>
-<div class="docs-carousel-slide"><img src="/content/images/admin/image14.png" alt="Выбор типа организации" /></div>
-<div class="docs-carousel-slide"><img src="/content/images/admin/image12.png" alt="Форма создания организации" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/admin/images/organizacii/09-kartochka-dobavit-organizaciyu.png" alt="Кнопка «Добавить» и выбор «Организацию» в карточке" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/admin/images/organizacii/10-kartochka-vybor-tipa.png" alt="Выбор типа организации" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/admin/images/organizacii/11-kartochka-forma-sozdaniya.png" alt="Форма создания организации" /></div>
 </div>
 <div class="docs-carousel-nav">
 <span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>
