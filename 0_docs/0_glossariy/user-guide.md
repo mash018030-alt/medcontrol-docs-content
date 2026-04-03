@@ -1,3 +1,3 @@
 # Глоссарий
 
-- [Термины и сокращения](/glossariy/terminy-i-sokrashcheniya)
+- [Термины и сокращения](/0_docs/0_glossariy/terminy-i-sokrashcheniya)

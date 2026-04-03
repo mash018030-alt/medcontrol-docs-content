@@ -63,4 +63,4 @@
 
 ![image10.png](/content/images/medkabinet/image10.png)
 
-Назначение осмотров и работа с карточками осмотра описаны в статье [Работа с осмотром](/medkabinet/rabota-v-medkabinete); вынесение заключения — в статье [Вынесение заключения по осмотру](/medkabinet/vynesenie-zaklyucheniya-po-osmotru).
+Назначение осмотров и работа с карточками осмотра описаны в статье [Работа с осмотром](/0_docs/3_medkabinet/rabota-v-medkabinete); вынесение заключения — в статье [Вынесение заключения по осмотру](/0_docs/3_medkabinet/vynesenie-zaklyucheniya-po-osmotru).
