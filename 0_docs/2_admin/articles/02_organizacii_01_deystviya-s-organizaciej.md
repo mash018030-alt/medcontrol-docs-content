@@ -11,7 +11,7 @@
 - профиль медобслуживания – изменить текущий, добавить новый или сменить Основную медорганизацию;
 - профиль точки выпуска ПАК.
 
-![image41.png](/content/0_docs/admin/images/deystviya-s-organizaciej/01-redaktirovanie.png)
+![image41.png](/content/0_docs/2_admin/images/02_organizacii_01_deystviya-s-organizaciej/01-redaktirovanie.png)
 
 ## Добавление
 
@@ -24,26 +24,26 @@
 - дочернюю организацию;
 - подписку на уведомление о событиях данной организации.
 
-![image19.png](/content/0_docs/admin/images/deystviya-s-organizaciej/02-knopka-dobavit.png)
+![image19.png](/content/0_docs/2_admin/images/02_organizacii_01_deystviya-s-organizaciej/02-knopka-dobavit.png)
 
 ## Деактивация
 
 Кнопка «Деактивировать» переводит карточку организации в неактивный режим, при этом данные организации сохраняются в АРМ.
 
-![image10.png](/content/0_docs/admin/images/deystviya-s-organizaciej/03-deaktivaciya.png)
+![image10.png](/content/0_docs/2_admin/images/02_organizacii_01_deystviya-s-organizaciej/03-deaktivaciya.png)
 
 Появляется сообщение об успешной деактивации, статус организации меняется на «Деактивирована».
 
-![image29.png](/content/0_docs/admin/images/deystviya-s-organizaciej/04-soobshchenie-deaktivaciya.png)
+![image29.png](/content/0_docs/2_admin/images/02_organizacii_01_deystviya-s-organizaciej/04-soobshchenie-deaktivaciya.png)
 
 В списке доступных действий кнопка «Деактивировать» заменится на «Активировать» – с её помощью можно восстановить активный статус организации в любой момент.
 
-![image33.png](/content/0_docs/admin/images/deystviya-s-organizaciej/05-knopka-aktivirovat.png)
+![image33.png](/content/0_docs/2_admin/images/02_organizacii_01_deystviya-s-organizaciej/05-knopka-aktivirovat.png)
 
 ## История изменений
 
 Также пользователям с административным доступом в карточке организации отображается вкладка «История изменений» – там можно увидеть, какие действия в организации были совершены, когда и кем.
 
-![image11.png](/content/0_docs/admin/images/deystviya-s-organizaciej/06-istoriya-izmenenij.png)
+![image11.png](/content/0_docs/2_admin/images/02_organizacii_01_deystviya-s-organizaciej/06-istoriya-izmenenij.png)
 
-Вкладка «Настройки» в карточке организации (табельный номер, виды осмотров, авторизация на ПАК, гостевой доступ) описана в статье [Настройки организации](/0_docs/admin/articles/04-nastroyki-organizacii).
+Вкладка «Настройки» в карточке организации (табельный номер, виды осмотров, авторизация на ПАК, гостевой доступ) описана в статье [Настройки организации](/0_docs/2_admin/articles/02_organizacii_02_nastroyki-organizacii).

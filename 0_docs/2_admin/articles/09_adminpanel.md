@@ -10,25 +10,25 @@
 - структурной карточке пользователя;
 - структурной карточке ПАК.
 
-![image52.png](/content/0_docs/admin/images/adminpanel/01-audit-obshij-vid.png)
+![image52.png](/content/0_docs/2_admin/images/09_adminpanel/01-audit-obshij-vid.png)
 
 События можно фильтровать по:
 
 - Действиям – какое событие нужно найти.
 
-![image51.png](/content/0_docs/admin/images/adminpanel/02-filtr-po-dejstviyam.png)
+![image51.png](/content/0_docs/2_admin/images/09_adminpanel/02-filtr-po-dejstviyam.png)
 
 - Объектам – событие по какому объекту (пользователю, организации, ПАК и т.д.) нужно найти.
 
-![image27.png](/content/0_docs/admin/images/adminpanel/03-filtr-po-obektam.png)
+![image27.png](/content/0_docs/2_admin/images/09_adminpanel/03-filtr-po-obektam.png)
 
 После выбора объекта/объектов нужно нажать внизу отображения событий и ещё раз «Показать».
 
-![image28.png](/content/0_docs/admin/images/adminpanel/04-knopka-pokazat.png)
+![image28.png](/content/0_docs/2_admin/images/09_adminpanel/04-knopka-pokazat.png)
 
 - Субъектам – если нужно найти событие по конкретному пользователю, совершившему действие.
 
-![image31.png](/content/0_docs/admin/images/adminpanel/05-filtr-po-subektam.png)
+![image31.png](/content/0_docs/2_admin/images/09_adminpanel/05-filtr-po-subektam.png)
 
 В отображаемом списке раздела «Аудит» показаны:
 
@@ -40,4 +40,4 @@
 
 При нажатии на имя субъекта / объекта происходит переход в их структурную карточку.
 
-![image44.png](/content/0_docs/admin/images/adminpanel/06-spisok-audita.png)
+![image44.png](/content/0_docs/2_admin/images/09_adminpanel/06-spisok-audita.png)

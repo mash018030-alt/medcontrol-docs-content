@@ -1,0 +1,15 @@
+# Общее
+
+- [Авторизация в АРМ](/0_docs/1_obshee/avtorizaciya-v-arm)
+- [Осмотры](/0_docs/1_obshee/osmotry)
+- [Организации](/0_docs/1_obshee/organizacii)
+- [Пользователи](/0_docs/1_obshee/polzovateli)
+- [Документы](/0_docs/1_obshee/dokumenty)
+- [Отчёты](/0_docs/1_obshee/otchety)
+- [ПАК](/0_docs/1_obshee/pak)
+- [Уведомления](/0_docs/1_obshee/uvedomleniya)
+  - [Создание подписки](/0_docs/1_obshee/uvedomleniya-sozdanie-podpiski)
+  - [Действия с подпиской](/0_docs/1_obshee/uvedomleniya-deystviya-s-podpiskoy)
+  - [Шаблоны](/0_docs/1_obshee/uvedomleniya-shablony)
+  - [Уведомления в Telegram](/0_docs/1_obshee/uvedomleniya-telegram)
+- [Частые вопросы](/0_docs/1_obshee/chastye-voprosy)

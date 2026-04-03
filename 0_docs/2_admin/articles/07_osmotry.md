@@ -6,6 +6,6 @@
 
 Найти осмотр с возможностью отмены можно в карточке работника – справа будет блок «Текущий осмотр» и кнопка «Отменить».
 
-![image18.png](/content/0_docs/admin/images/osmotry/01-ruchnye-operacii.png)
+![image18.png](/content/0_docs/2_admin/images/07_osmotry/01-ruchnye-operacii.png)
 
-![image55.png](/content/0_docs/admin/images/osmotry/02-dopolnitelno.png)
+![image55.png](/content/0_docs/2_admin/images/07_osmotry/02-dopolnitelno.png)
