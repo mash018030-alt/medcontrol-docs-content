@@ -12,19 +12,19 @@
 
 1.  Открыть настройки созданной подписки.
 
-![image43.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-01.png)
+![01-otkryt-nastroyki-sozdannoy-podpiski.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/01-otkryt-nastroyki-sozdannoy-podpiski.png)
 
 2.  Нажать «Сохранить как шаблон».
 
-![image8.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-02.png)
+![02-nazhat-sohranit-kak-shablon.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/02-nazhat-sohranit-kak-shablon.png)
 
 3.  Дать наименование шаблону, настроить его общедоступность, проверить настройки событий и каналов и сохранить.
 
-![image205.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-03.png)
+![03-dat-naimenovanie-shablonu-nastroit-ego-obs.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/03-dat-naimenovanie-shablonu-nastroit-ego-obs.png)
 
 4.  Шаблон сохранен. В окне настроек подписки появится пометка «Сохранено как шаблон».
 
-![image36.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-04.png)
+![04-shablon-sohranen-v-okne-nastroek-podpiski.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/04-shablon-sohranen-v-okne-nastroek-podpiski.png)
 
 ---
 
@@ -39,11 +39,11 @@
 1.  Нажать «Добавить подписку» в карточке пользователя или организации.
 2.  В поле «Выберите шаблон» выбрать нужный шаблон.
 
-![image55.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-05.png)
+![05-v-pole-vyberite-shablon-vybrat-nuzhnyy-sha.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/05-v-pole-vyberite-shablon-vybrat-nuzhnyy-sha.png)
 
 3.  Проверить указанные события и каналы и нажать «Добавить».
 
-![image107.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-06.png)
+![06-proverit-ukazannye-sobytiya-i-kanaly-i-naz.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/06-proverit-ukazannye-sobytiya-i-kanaly-i-naz.png)
 
 ---
 
@@ -68,11 +68,11 @@
 1.  Открыть настройки этой подписки.
 2.  Нажать «Выбрать шаблон».
 
-![image48.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-07.png)
+![07-nazhat-vybrat-shablon.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/07-nazhat-vybrat-shablon.png)
 
 3.  Выбрать нужный шаблон и нажать «Сохранить».
 
-![image186.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-08.png)
+![08-vybrat-nuzhnyy-shablon-i-nazhat-sohranit.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/08-vybrat-nuzhnyy-shablon-i-nazhat-sohranit.png)
 
 ### Создание новой подписки
 
@@ -81,7 +81,7 @@
 1.  После добавления подписки зайти в её настройки.
 2.  В меню справа нажать «Выбрать шаблон».
 
-![image25.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-09.png)
+![09-v-menyu-sprava-nazhat-vybrat-shablon.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/09-v-menyu-sprava-nazhat-vybrat-shablon.png)
 
 3.  Выбрать нужный шаблон и сохранить.
 
@@ -96,13 +96,13 @@
 1.  Была создана подписка с событием «Административные замечания» и каналом «Email».
 2.  Эта подписка сохранена как шаблон «Админ. замечания почта» .
 
-![image144.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-10.png)
+![10-eta-podpiska-sohranena-kak-shablon-admin-z.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/10-eta-podpiska-sohranena-kak-shablon-admin-z.png)
 
 3.  Затем подписку отредактировали – добавили ещё одно правило «Неявка на повторный осмотр» с каналом «Telegram».
 4.  В меню обновлённой подписки появляется кнопка «Привести к шаблону».
 
-![image46.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-11.png)
+![11-v-menyu-obnovlyonnoy-podpiski-poyavlyaetsy.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/11-v-menyu-obnovlyonnoy-podpiski-poyavlyaetsy.png)
 
 5.  Если нажать на эту кнопку, текущая подписка вернётся к настройкам выбранного шаблона, то есть к исходной подписке с событием «Административные замечания» и каналом «Email».
 
-![image134.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-12.png)
+![12-esli-nazhat-na-etu-knopku-tekuschaya-podpi.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/12-esli-nazhat-na-etu-knopku-tekuschaya-podpi.png)

@@ -14,7 +14,7 @@
 8.  Количество пользователей, зарегистрированных в организации.
 9.  Количество ПАК, привязанных к организации.
 
-![image101.png](/content/0_docs/1_obshee/images/09_organizacii/figure-01.png)
+![01-kolichestvo-pak-privyazannyh-k-organizatsi.png](/content/0_docs/1_obshee/images/09_organizacii/01-kolichestvo-pak-privyazannyh-k-organizatsi.png)
 
 10.  Платёжный профиль организации.
 11.  Профиль медобслуживания.
@@ -22,11 +22,11 @@
 13.  Обозначение типа организации – компания/ИП/группа/подразделение.
 14.  Метка профиля точки выпуска.
 
-![image19.png](/content/0_docs/1_obshee/images/09_organizacii/figure-02.png)
+![02-metka-profilya-tochki-vypuska.png](/content/0_docs/1_obshee/images/09_organizacii/02-metka-profilya-tochki-vypuska.png)
 
 ## Поиск организаций
 
-![image69.png](/content/0_docs/1_obshee/images/09_organizacii/figure-03.png)
+![03-metka-profilya-tochki-vypuska.png](/content/0_docs/1_obshee/images/09_organizacii/03-metka-profilya-tochki-vypuska.png)
 
 Через расширенный фильтр можно отсортировать организации по:
 
@@ -42,7 +42,7 @@
 6.  платежному признаку – является ли организация контрагентом;
 7.  организации-контрагенту, оплачивающей осмотры.
 
-![image81.png](/content/0_docs/1_obshee/images/09_organizacii/figure-04.png)
+![04-organizatsii-kontragentu-oplachivayuschey.png](/content/0_docs/1_obshee/images/09_organizacii/04-organizatsii-kontragentu-oplachivayuschey.png)
 
 ---
 
@@ -52,8 +52,8 @@
 
 Все объекты, созданные в тестовой организации (пользователи, ПАК, осмотры, дочерние организации), являются тестовыми и выделяются меткой.
 
-![image170.png](/content/0_docs/1_obshee/images/09_organizacii/figure-05.png)
+![05-testovye-organizatsii.png](/content/0_docs/1_obshee/images/09_organizacii/05-testovye-organizatsii.png)
 
 При поиске в АРМ они отображаются при включённом параметре «Тестовые».
 
-![image92.png](/content/0_docs/1_obshee/images/09_organizacii/figure-06.png)
+![06-testovye-organizatsii.png](/content/0_docs/1_obshee/images/09_organizacii/06-testovye-organizatsii.png)

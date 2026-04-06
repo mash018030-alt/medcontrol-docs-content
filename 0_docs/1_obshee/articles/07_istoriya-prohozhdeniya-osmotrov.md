@@ -16,11 +16,11 @@
 6.  Данные: дата, время, вид осмотра; точка выпуска.
 7.  Информация о медицинском работнике, вынесшем заключение по осмотру: ФИО, роль, организация.
 
-![История осмотров: архив, попытки, фото и видео, показатели и отстранение](/content/0_docs/1_obshee/images/07_istoriya-prohozhdeniya-osmotrov/figure-01.png)
+![История осмотров: архив, попытки, фото и видео, показатели и отстранение](/content/0_docs/1_obshee/images/07_istoriya-prohozhdeniya-osmotrov/01-istoriya-osmotrov-arhiv-popytki-foto-i-vid.png)
 
 8.  Медицинские документы, сформированные на основе заключения по осмотру.
 9.  История обработки – временные метки регистрации и обработки данных осмотра.
 
-![История осмотров: дата и вид осмотра, медработник, документы, история обработки](/content/0_docs/1_obshee/images/07_istoriya-prohozhdeniya-osmotrov/figure-02.png)
+![История осмотров: дата и вид осмотра, медработник, документы, история обработки](/content/0_docs/1_obshee/images/07_istoriya-prohozhdeniya-osmotrov/02-istoriya-osmotrov-data-i-vid-osmotra-medra.png)
 
 ---

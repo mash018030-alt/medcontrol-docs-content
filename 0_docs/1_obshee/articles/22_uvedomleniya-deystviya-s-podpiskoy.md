@@ -14,11 +14,11 @@
 
 1.  Открыть нужную подписку через «Настройки» – «Уведомления», нажать на иконку редактирования и выбрать «Редактировать подписку».
 
-![image6.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-01.png)
+![01-otkryt-nuzhnuyu-podpisku-cherez-nastroyki.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/01-otkryt-nuzhnuyu-podpisku-cherez-nastroyki.png)
 
 2.  Внести нужные изменения и нажать «Сохранить»:
 
-![image173.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-02.png)
+![02-vnesti-nuzhnye-izmeneniya-i-nazhat-sohrani.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/02-vnesti-nuzhnye-izmeneniya-i-nazhat-sohrani.png)
 
 ---
 
@@ -42,15 +42,15 @@
 
 1.  Открыть нужную подписку, нажать на иконку редактирования и кликнуть «Добавить правило».
 
-![image16.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-03.png)
+![03-otkryt-nuzhnuyu-podpisku-nazhat-na-ikonku.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/03-otkryt-nuzhnuyu-podpisku-nazhat-na-ikonku.png)
 
 2.  Выбрать из списка условие «Температура. Ожидается повторная попытка», отметить нужные каналы – «Сохранить»:
 
-![image150.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-04.png)
+![04-vybrat-iz-spiska-uslovie-temperatura-ozhid.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/04-vybrat-iz-spiska-uslovie-temperatura-ozhid.png)
 
 3.  Теперь менеджеру будут приходить уведомления и по алкоголю, и по температуре.
 
-![image151.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-05.png)
+![05-teper-menedzheru-budut-prihodit-uvedomleni.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/05-teper-menedzheru-budut-prihodit-uvedomleni.png)
 
 ---
 
@@ -63,11 +63,11 @@
 1.  Открыть нужную подписку (через «Настройки» – «Уведомления»).
 2.  Навести курсор мыши на правило, которое нужно изменить, и нажать на иконку редактирования.
 
-![image98.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-06.png)
+![06-navesti-kursor-myshi-na-pravilo-kotoroe-nu.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/06-navesti-kursor-myshi-na-pravilo-kotoroe-nu.png)
 
 3.  Выбрать новое правило и нужные каналы, нажать «Сохранить».
 
-![image44.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-07.png)
+![07-vybrat-novoe-pravilo-i-nuzhnye-kanaly-nazh.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/07-vybrat-novoe-pravilo-i-nuzhnye-kanaly-nazh.png)
 
 ---
 
@@ -77,15 +77,15 @@
 
 1.  На вкладке «Настройки» – «Уведомления» развернуть строку с подпиской и перевести в неактивное положение переключатель напротив правила, которое нужно деактивировать.
 
-![image149.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-08.png)
+![08-na-vkladke-nastroyki-uvedomleniya-razvernu.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/08-na-vkladke-nastroyki-uvedomleniya-razvernu.png)
 
 2.  Зайти в настройки подписки и там также перевести в неактивное положение переключатель.
 
-![image82.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-09.png)
+![09-zayti-v-nastroyki-podpiski-i-tam-takzhe-pe.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/09-zayti-v-nastroyki-podpiski-i-tam-takzhe-pe.png)
 
 Отключенное правило останется в списке. Для его включения нужно будет просто вернуть переключатель в активное положение.
 
-![image112.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-10.png)
+![10-zayti-v-nastroyki-podpiski-i-tam-takzhe-pe.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/10-zayti-v-nastroyki-podpiski-i-tam-takzhe-pe.png)
 
 ---
 
@@ -98,11 +98,11 @@
 1.  Открыть настройки подписки.
 2.  Навести курсор на соответствующее правило и нажать на иконку корзины.
 
-![image135.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-11.png)
+![11-navesti-kursor-na-sootvetstvuyuschee-pravi.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/11-navesti-kursor-na-sootvetstvuyuschee-pravi.png)
 
 3.  Подтвердить удаление.
 
-![image152.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-12.png)
+![12-podtverdit-udalenie.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/12-podtverdit-udalenie.png)
 
 
 ---
@@ -113,19 +113,19 @@
 
 1.  В разделе «Уведомления» нажать на иконку колокольчика напротив подписки, которую нужно отключить.
 
-![image68.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-13.png)
+![13-v-razdele-uvedomleniya-nazhat-na-ikonku-ko.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/13-v-razdele-uvedomleniya-nazhat-na-ikonku-ko.png)
 
 2.  Открыть настройки подписки и там нажать либо на иконку колокольчика напротив метки «Активна», либо на кнопку «Отключить подписку».
 
-![image187.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-14.png)
+![14-otkryt-nastroyki-podpiski-i-tam-nazhat-lib.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/14-otkryt-nastroyki-podpiski-i-tam-nazhat-lib.png)
 
 Активировать отключенную подписку можно тем же способом – нажав на колокольчик в разделе «Уведомления» или в настройках подписки рядом с меткой «Не активна».
 
-![image132.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-15.png)
+![15-otkryt-nastroyki-podpiski-i-tam-nazhat-lib.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/15-otkryt-nastroyki-podpiski-i-tam-nazhat-lib.png)
 
 Также можно отключить все подписки через кнопку на вкладке «Уведомления».
 
-![image56.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-16.png)
+![16-otklyuchenie-vklyuchenie-podpiski.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/16-otklyuchenie-vklyuchenie-podpiski.png)
 
 ---
 
@@ -133,8 +133,8 @@
 
 Если же подписка не нужна совсем, её можно удалить в настройках через кнопку «Удалить подписку».
 
-![image64.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-17.png)
+![17-udalenie-podpiski.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/17-udalenie-podpiski.png)
 
 Также можно удалить все подписки на вкладке «Уведомления» через «Удалить все подписки».
 
-![image12.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/figure-18.png)
+![18-udalenie-podpiski.png](/content/0_docs/1_obshee/images/22_uvedomleniya-deystviya-s-podpiskoy/18-udalenie-podpiski.png)

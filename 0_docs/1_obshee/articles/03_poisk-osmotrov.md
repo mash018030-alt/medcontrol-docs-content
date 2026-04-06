@@ -8,23 +8,23 @@
 
 - <span class="docs-li-underline">Поле для ручного ввода данных:</span>
 
-![image71.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-01.png)
+![01-pole-dlya-ruchnogo-vvoda-dannyh.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/01-pole-dlya-ruchnogo-vvoda-dannyh.png)
 
 - <span class="docs-li-underline">Переключатель для группировки попыток осмотров на серии</span>
 
-![image143.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-02.png)
+![02-pereklyuchatel-dlya-gruppirovki-popytok-os.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/02-pereklyuchatel-dlya-gruppirovki-popytok-os.png)
 
 - <span class="docs-li-underline">Поиск осмотра по его ID номеру:</span>
 
-![image37.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-03.png)
+![03-poisk-osmotra-po-ego-id-nomeru.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/03-poisk-osmotra-po-ego-id-nomeru.png)
 
 - <span class="docs-li-underline">Поиск тестовых осмотров:</span>
 
-![image203.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-04.png)
+![04-poisk-testovyh-osmotrov.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/04-poisk-testovyh-osmotrov.png)
 
 - <span class="docs-li-underline">Временной диапазон</span> – поиск осмотров по периоду времени, в течение которого они были проведены:
 
-![image127.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-05.png)
+![05-vremennoy-diapazon-poisk-osmotrov-po-perio.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/05-vremennoy-diapazon-poisk-osmotrov-po-perio.png)
 
 <details class="docs-disclosure">
 <summary>Диапазон отображения осмотров по умолчанию</summary>
@@ -36,14 +36,14 @@
 2. Диапазон по датам в календаре.
 3. Время начала и окончания фильтрации.
 
-![image17.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-06.png)
+![06-vremya-nachala-i-okonchaniya-fil-tratsii.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/06-vremya-nachala-i-okonchaniya-fil-tratsii.png)
 
 </div>
 </details>
 
 <p><span class="docs-li-underline">Расширенный фильтр:</span></p>
 
-![image62.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-07.png)
+![07-poisk-osmotrov.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/07-poisk-osmotrov.png)
 
 <details class="docs-disclosure">
 <summary>Содержание расширенного фильтра</summary>
@@ -61,7 +61,7 @@
 10.  Замечания, выявленные при анализе осмотра.
 11.  Дополнительные параметры.
 
-![Содержание расширенного фильтра](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-08.png)
+![Содержание расширенного фильтра](/content/0_docs/1_obshee/images/03_poisk-osmotrov/08-soderzhanie-rasshirennogo-fil-tra.png)
 
 </div>
 </details>

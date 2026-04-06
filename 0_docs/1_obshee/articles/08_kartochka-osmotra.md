@@ -19,7 +19,7 @@
 5.  Решение по осмотру.
 6.  Время прохождения осмотра на ПАК.
 
-![image111.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-01.png)
+![01-vremya-prohozhdeniya-osmotra-na-pak.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/01-vremya-prohozhdeniya-osmotra-na-pak.png)
 
 ## Информация
 
@@ -33,7 +33,7 @@
 4.  Возраст и дата рождения.
 5.  Роль пользователя в АРМ.
 
-![image47.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-02.png)
+![02-rol-pol-zovatelya-v-arm.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/02-rol-pol-zovatelya-v-arm.png)
 
 **Медицинские данные:**
 
@@ -44,17 +44,17 @@
 5.  Замечания – выявленные признаки воздействия вредных и (или) опасных производственных факторов, состояний и заболеваний, препятствующих выполнению трудовых обязанностей и/или прочие причины отстранения.
 6.  Референсные значения для сравнения с полученными в ходе осмотра показателями.
 
-![image41.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-03.png)
+![03-referensnye-znacheniya-dlya-sravneniya-s-p.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/03-referensnye-znacheniya-dlya-sravneniya-s-p.png)
 
 **Информация о медработнике:**
 1.  ФИО и роль в АРМ пользователя, вынесшего заключение.
 2.  Медорганизация, в которой трудоустроен медработник.
 
-![image118.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-04.png)
+![04-medorganizatsiya-v-kotoroy-trudoustroen-me.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/04-medorganizatsiya-v-kotoroy-trudoustroen-me.png)
 
 Исходящие документы (с возможностью просмотра и выгрузки) – медицинские документы, сформированные на основании проведенного осмотра.
 
-![image154.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-05.png)
+![05-medorganizatsiya-v-kotoroy-trudoustroen-me.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/05-medorganizatsiya-v-kotoroy-trudoustroen-me.png)
 
 В меню карточки справа можно:
 
@@ -63,7 +63,7 @@
 3.  Скачать ИДС на проведение осмотра с подписью работника.
 4.  Открыть историю осмотров работника.
 
-![image74.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-06.png)
+![06-otkryt-istoriyu-osmotrov-rabotnika.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/06-otkryt-istoriyu-osmotrov-rabotnika.png)
 
 ---
 
@@ -74,9 +74,9 @@
 **Данные окружающей среды, зарегистрированные в момент проведения осмотра:**
 
 <div class="docs-env-list">
-<div class="docs-env-item"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-07.png" alt=""> температура;</div>
-<div class="docs-env-item"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-08.png" alt=""> влажность;</div>
-<div class="docs-env-item"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-09.png" alt=""> уровень освещенности;</div>
+<div class="docs-env-item"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/07-ikonka-temperatura.png" alt=""> температура;</div>
+<div class="docs-env-item"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/08-ikonka-vlazhnost.png" alt=""> влажность;</div>
+<div class="docs-env-item"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/09-ikonka-uroven-osveschennosti.png" alt=""> уровень освещенности;</div>
 </div>
 
 <details class="docs-disclosure">
@@ -92,18 +92,18 @@
 
 **Индикатор поверки МИ и вскрытия корпуса ПАК:**
 
-![image141.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-10.png)
+![10-usloviya-provedeniya.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/10-usloviya-provedeniya.png)
 
 **Техническая информация о встроенном ПО на ПАК:**
 
-![image3.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-11.png)
+![11-usloviya-provedeniya.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/11-usloviya-provedeniya.png)
 
 <div class="docs-info">
 <div class="docs-info-title">Информация</div>
 
 <p>Осмотры, пройденные на ПАК с нарушениями условий эксплуатации, не назначаются медработникам, обрабатываются ИС автоматически и в карточке осмотра имеют статус «Нарушение тех.условий».</p>
 
-<img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-12.png" alt="Карточка осмотра: статус «Нарушение тех. условий»" />
+<img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/12-kartochka-osmotra-status-narushenie-teh-us.png" alt="Карточка осмотра: статус «Нарушение тех. условий»" />
 
 </div>
 
@@ -128,7 +128,7 @@
 3.  Кнопка просмотра информации, отображенной на талоне.
 4.  Кнопка повторной печати талона.
 
-![image130.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-13.png)
+![13-knopka-povtornoy-pechati-talona.png](/content/0_docs/1_obshee/images/08_kartochka-osmotra/13-knopka-povtornoy-pechati-talona.png)
 
 Если время на печать талона истекло или он был утерян/испорчен, можно напечатать талон повторно с результатами пройденного осмотра. Для этого нужно:
 
@@ -143,9 +143,9 @@
 <input type="radio" name="carousel-kartochka-talony" id="carousel-kartochka-talony-2">
 <input type="radio" name="carousel-kartochka-talony" id="carousel-kartochka-talony-3">
 <div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-14.png" alt="Шаг 1: нажать на кнопку печати талона" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-15.png" alt="Шаг 2: выбрать ПАК из списка (вкладка «Талоны» карточки осмотра)" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/figure-16.png" alt="Шаг 3: нажать «Распечатать»" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/14-shag-1-nazhat-na-knopku-pechati-talona.png" alt="Шаг 1: нажать на кнопку печати талона" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/15-shag-2-vybrat-pak-iz-spiska-vkladka-talony.png" alt="Шаг 2: выбрать ПАК из списка (вкладка «Талоны» карточки осмотра)" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/08_kartochka-osmotra/16-shag-3-nazhat-raspechatat.png" alt="Шаг 3: нажать «Распечатать»" /></div>
 </div>
 <div class="docs-carousel-nav">
 <span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>

@@ -2,7 +2,7 @@
 
 В разделе «Настройки» в карточке организации показаны индивидуальные или системные параметры, влияющие на работу сотрудников и ПАК в рамках организации.
 
-![image167.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/figure-01.png)
+![01-nastroyki-organizatsii.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/01-nastroyki-organizatsii.png)
 
 ## Основные настройки
 
@@ -10,7 +10,7 @@
 
 1.  Настройки формата табельного номера организации.
 
-![image113.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/figure-02.png)
+![02-nastroyki-formata-tabel-nogo-nomera-organi.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/02-nastroyki-formata-tabel-nogo-nomera-organi.png)
 
 2.  Виды осмотров, которые работники данной организации могут проходить:
 
@@ -21,24 +21,24 @@
     - послесменные;
     - определение концентрации этанола (алкоголя) в выдыхаемом воздухе – алкотестирование.
 
-![image85.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/figure-03.png)
+![03-opredelenie-kontsentratsii-etanola-alkogol.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/03-opredelenie-kontsentratsii-etanola-alkogol.png)
 
 3.  Способы авторизации работников на ПАК – например, номер телефона + пинкод или табельный номер + пароль.
 
-![image85.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/figure-03.png)
+![03-opredelenie-kontsentratsii-etanola-alkogol.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/03-opredelenie-kontsentratsii-etanola-alkogol.png)
 
 В медорганизации можно дополнительно настроить:
 
 4.  Нежелательные события – таймауты на взятие и решение, отключение ассистента;
 5.  Целевые показатели – время взятия осмотра и принятия решения по осмотру, занятость, утилизация и эффективность.
 
-![image20.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/figure-04.png)
+![04-tselevye-pokazateli-vremya-vzyatiya-osmotr.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/04-tselevye-pokazateli-vremya-vzyatiya-osmotr.png)
 
 ## Гостевой доступ
 
 Работники указанных здесь организаций могут проходить осмотры на ПАК организации.
 
-![image86.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/figure-05.png)
+![05-gostevoy-dostup.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/05-gostevoy-dostup.png)
 
 ## Уведомления
 
@@ -46,4 +46,4 @@
 
 Подробнее о настройке уведомлений – в отдельном [разделе](/0_docs/1_obshee/articles/20_uvedomleniya) ниже.
 
-![image79.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/figure-06.png)
+![06-uvedomleniya.png](/content/0_docs/1_obshee/images/11_nastroyki-organizacii/06-uvedomleniya.png)

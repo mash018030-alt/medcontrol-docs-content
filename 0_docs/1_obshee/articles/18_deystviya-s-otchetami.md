@@ -7,12 +7,12 @@
 1.  Перейти в раздел «Отчёты».
 2.  Выбрать нужный отчёт.
 
-![image123.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-01.png)
+![01-vybrat-nuzhnyy-otchyot.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/01-vybrat-nuzhnyy-otchyot.png)
 
 3.  Заполнить параметры: тип (при наличии), организация, сотрудник, контрагент, период формирования (максимум – 31 день), часовой пояс отображения времени, формат и пр. Параметр «Подписать квалифицированной электронной подписью» предназначен для медработников, которые заверяют документ своей УКЭП.
 4.  Нажать «Сформировать».
 
-![image40.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-02.png)
+![02-nazhat-sformirovat.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/02-nazhat-sformirovat.png)
 
 ---
 
@@ -25,7 +25,7 @@
 3.  Статусу (готов/ошибка/формируется/подписывается).
 4.  Времени создания.
 
-![image78.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-03.png)
+![03-vremeni-sozdaniya.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/03-vremeni-sozdaniya.png)
 
 Ниже под фильтрами – информация по каждому отчёту:
 
@@ -40,7 +40,7 @@
 9.  Кнопка для скачивания отчёта. После скачивания файл попадает в папку с загрузками на ПК, оттуда его можно открыть для просмотра.
 10.  Кнопка для удаления отчёта из истории.
 
-![image97.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-04.png)
+![04-knopka-dlya-udaleniya-otchyota-iz-istorii.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/04-knopka-dlya-udaleniya-otchyota-iz-istorii.png)
 
 По строке «Подробнее» отображаются:
 
@@ -49,4 +49,4 @@
 3.  Часовой пояс отображения событий в отчёте.
 4.  Технические данные, которые могут быть использованы сотрудниками техподдержкой/сервисными инженерами при ошибках.
 
-![image70.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-05.png)
+![05-tehnicheskie-dannye-kotorye-mogut-byt-ispo.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/05-tehnicheskie-dannye-kotorye-mogut-byt-ispo.png)

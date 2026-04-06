@@ -43,11 +43,11 @@
 
 1.  Перейти в раздел «Пользователи», нажать «Добавить» в правом верхнем углу и выбрать «Добавить вручную».
 
-![image83.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/figure-01.png)
+![01-pereyti-v-razdel-pol-zovateli-nazhat-dobav.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/01-pereyti-v-razdel-pol-zovateli-nazhat-dobav.png)
 
 2.  Указать организацию, роль пользователя, заполнить личные данные и нажать «Завершить».
 
-![image110.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/figure-02.png)
+![02-ukazat-organizatsiyu-rol-pol-zovatelya-zap.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/02-ukazat-organizatsiyu-rol-pol-zovatelya-zap.png)
 
 ### Импорт
 
@@ -57,22 +57,22 @@
 2.  Нажать «Добавить».
 3.  Выбрать «Импорт из csv».
 
-![image95.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/figure-03.png)
+![03-vybrat-import-iz-csv.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/03-vybrat-import-iz-csv.png)
 
 4.  Выбрать организацию из выпадающего списка.
 5.  Скачать шаблон импорта и заполнить его в соответствии с инструкциями.
 6.  Прикрепить готовый шаблон импорта.
 7.  Нажать «Начать импорт».
 
-![image145.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/figure-04.png)
+![04-nazhat-nachat-import.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/04-nazhat-nachat-import.png)
 
 Результаты импорта отображаются на вкладке «Пользователи» – «Импорт», в файле из истории импортов.
 
-![image139.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/figure-05.png)
+![05-nazhat-nachat-import.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/05-nazhat-nachat-import.png)
 
 При успешном импорте будет статус «Готов», при неудачном – «Ошибка загрузки». По кнопке «Скачать» можно получить файл с ошибками. Эти ошибки нужно исправить и повторить импорт.
 
-![image13.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/figure-06.png)
+![06-import.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/06-import.png)
 
 ---
 
@@ -80,7 +80,7 @@
 
 При создании пользователя (с любой ролью, кроме «Работник») есть шаг с предоставлением доступа к организациям. Здесь нужно указать организации, в которых пользователь сможет совершать действия согласно его роли – например, редактировать данные, добавлять пользователей, ПАК и т.п. При этом доступ появится к указанным организациям и всем объектам внутри них (дочерние организации, пользователи и т.д.).
 
-![image96.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/figure-07.png)
+![07-predostavlenie-dostupa-k-organizatsiyam.png](/content/0_docs/1_obshee/images/15_sozdanie-polzovatelya/07-predostavlenie-dostupa-k-organizatsiyam.png)
 
 После добавления пользователя список доступных организаций можно отредактировать в карточке пользователя, если есть соответствующие доступы.
 

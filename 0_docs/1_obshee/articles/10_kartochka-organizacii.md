@@ -11,19 +11,19 @@
 3.  Кнопка для просмотра списка осмотров данной организации.
 4.  Для  медорганизации – кнопка для просмотра списка организаций, чьи осмотры эта медорганизация обрабатывает.
 
-![image200.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/figure-01.png)
+![01-dlya-medorganizatsii-knopka-dlya-prosmotra.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/01-dlya-medorganizatsii-knopka-dlya-prosmotra.png)
 
 5.  Платёжный профиль – юр.лицо, оплачивающее осмотры организации.
 6.  Для медорганизации – профиль медоператора с данными мед. лицензии и категориями медобслуживания.
 7.  Профиль медобслуживания – медорганизация, обрабатывающая осмотры работников данной организации. Главная обслуживающая медицинская организация обозначается меткой «Основная».
 
-![image194.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/figure-02.png)
+![02-profil-medobsluzhivaniya-medorganizatsiya.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/02-profil-medobsluzhivaniya-medorganizatsiya.png)
 
 ## Дочерние
 
 На вкладке «Дочерние» отображается перечень дочерних организаций (при их наличии). Список можно сортировать по реквизитам и точке выпуска, а также по тестовым организациям. Для просмотра деталей можно перейти в карточку организации, выбрав её из списка.
 
-![image185.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/figure-03.png)
+![03-dochernie.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/03-dochernie.png)
 
 ---
 
@@ -37,7 +37,7 @@
 
 По клику на ФИО можно перейти в карточку пользователя.
 
-![image133.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/figure-04.png)
+![04-priznaku-testovye-dlya-pol-zovateley-zareg.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/04-priznaku-testovye-dlya-pol-zovateley-zareg.png)
 
 ---
 
@@ -45,7 +45,7 @@
 
 На вкладке «ПАК» в карточке организации можно просматривать ПАК организации.
 
-![image27.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/figure-05.png)
+![05-pak.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/05-pak.png)
 
 Также можно искать ПАК по:
 
@@ -54,4 +54,4 @@
 3.  Признаку «тестовый» – ПАК, созданные в тестовой организации.
 4.  Статусу подключения и типу ПАК – через расширенный фильтр.
 
-![image168.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/figure-06.png)
+![06-statusu-podklyucheniya-i-tipu-pak-cherez-r.png](/content/0_docs/1_obshee/images/10_kartochka-organizacii/06-statusu-podklyucheniya-i-tipu-pak-cherez-r.png)

@@ -29,7 +29,7 @@
 
 Как выглядит:
 
-![image125.png](/content/0_docs/1_obshee/images/17_otchety/figure-01.png)
+![01-alkotestirovanie.png](/content/0_docs/1_obshee/images/17_otchety/01-alkotestirovanie.png)
 
 ---
 
@@ -41,11 +41,11 @@
 
 - сводная таблица;
 
-![image2.png](/content/0_docs/1_obshee/images/17_otchety/figure-02.png)
+![02-svodnaya-tablitsa.png](/content/0_docs/1_obshee/images/17_otchety/02-svodnaya-tablitsa.png)
 
 - детализация.
 
-![image5.png](/content/0_docs/1_obshee/images/17_otchety/figure-03.png)
+![03-detalizatsiya.png](/content/0_docs/1_obshee/images/17_otchety/03-detalizatsiya.png)
 
 ---
 
@@ -59,35 +59,35 @@
 
 - работники старше 55 лет;
 
-![image189.png](/content/0_docs/1_obshee/images/17_otchety/figure-04.png)
+![04-rabotniki-starshe-55-let.png](/content/0_docs/1_obshee/images/17_otchety/04-rabotniki-starshe-55-let.png)
 
 - Д-учёт;
 
-![image202.png](/content/0_docs/1_obshee/images/17_otchety/figure-05.png)
+![05-d-uchyot.png](/content/0_docs/1_obshee/images/17_otchety/05-d-uchyot.png)
 
 - риск развития нарушений сердечного ритма;
 
-![image163.png](/content/0_docs/1_obshee/images/17_otchety/figure-06.png)
+![06-risk-razvitiya-narusheniy-serdechnogo-ritm.png](/content/0_docs/1_obshee/images/17_otchety/06-risk-razvitiya-narusheniy-serdechnogo-ritm.png)
 
 - риск напряжения регуляторных систем;
 
-![image91.png](/content/0_docs/1_obshee/images/17_otchety/figure-07.png)
+![07-risk-napryazheniya-regulyatornyh-sistem.png](/content/0_docs/1_obshee/images/17_otchety/07-risk-napryazheniya-regulyatornyh-sistem.png)
 
 - употребление алкоголя:
 
-![image165.png](/content/0_docs/1_obshee/images/17_otchety/figure-08.png)
+![08-upotreblenie-alkogolya.png](/content/0_docs/1_obshee/images/17_otchety/08-upotreblenie-alkogolya.png)
 
 - риск развития сердечно-сосудистых заболеваний;
 
-![image178.png](/content/0_docs/1_obshee/images/17_otchety/figure-09.png)
+![09-risk-razvitiya-serdechno-sosudistyh-zabole.png](/content/0_docs/1_obshee/images/17_otchety/09-risk-razvitiya-serdechno-sosudistyh-zabole.png)
 
 - риск развития сердечно-сосудистых осложнений;
 
-![image191.png](/content/0_docs/1_obshee/images/17_otchety/figure-10.png)
+![10-risk-razvitiya-serdechno-sosudistyh-oslozh.png](/content/0_docs/1_obshee/images/17_otchety/10-risk-razvitiya-serdechno-sosudistyh-oslozh.png)
 
 - общая группа рисков.
 
-![image60.png](/content/0_docs/1_obshee/images/17_otchety/figure-11.png)
+![11-obschaya-gruppa-riskov.png](/content/0_docs/1_obshee/images/17_otchety/11-obschaya-gruppa-riskov.png)
 
 ### Журнал регистрации отстраненных работников
 
@@ -97,7 +97,7 @@
 
 Как выглядит:
 
-![image105.png](/content/0_docs/1_obshee/images/17_otchety/figure-12.png)
+![12-zhurnal-registratsii-otstranennyh-rabotnik.png](/content/0_docs/1_obshee/images/17_otchety/12-zhurnal-registratsii-otstranennyh-rabotnik.png)
 
 ### Журнал учета выданных справок в ЛПУ
 
@@ -105,7 +105,7 @@
 
 Как выглядит:
 
-![image77.png](/content/0_docs/1_obshee/images/17_otchety/figure-13.png)
+![13-zhurnal-ucheta-vydannyh-spravok-v-lpu.png](/content/0_docs/1_obshee/images/17_otchety/13-zhurnal-ucheta-vydannyh-spravok-v-lpu.png)
 
 ### Журнал учета выданных направлений на мед.освидетельствование
 
@@ -113,7 +113,7 @@
 
 Как выглядит:
 
-![image147.png](/content/0_docs/1_obshee/images/17_otchety/figure-14.png)
+![14-zhurnal-ucheta-vydannyh-napravleniy-na-med.png](/content/0_docs/1_obshee/images/17_otchety/14-zhurnal-ucheta-vydannyh-napravleniy-na-med.png)
 
 ---
 
@@ -125,7 +125,7 @@
 
 Как выглядит:
 
-![image87.png](/content/0_docs/1_obshee/images/17_otchety/figure-15.png)
+![15-statistika-obrabotki-osmotrov.png](/content/0_docs/1_obshee/images/17_otchety/15-statistika-obrabotki-osmotrov.png)
 
 ### Статистика смен
 
@@ -135,7 +135,7 @@
 
 Как выглядит:
 
-![image174.png](/content/0_docs/1_obshee/images/17_otchety/figure-16.png)
+![16-statistika-smen.png](/content/0_docs/1_obshee/images/17_otchety/16-statistika-smen.png)
 
 ### Длительность обработки осмотров
 
@@ -148,4 +148,4 @@
 
 Как выглядит:
 
-![image52.png](/content/0_docs/1_obshee/images/17_otchety/figure-17.png)
+![17-neuspeshnye-osmotry.png](/content/0_docs/1_obshee/images/17_otchety/17-neuspeshnye-osmotry.png)

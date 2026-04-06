@@ -18,7 +18,7 @@
 4.  Вид осмотра.
 5.  Дата и время прохождения осмотра.
 
-![Основные данные в списке осмотров](/content/0_docs/1_obshee/images/02_osmotry/figure-01.png)
+![Основные данные в списке осмотров](/content/0_docs/1_obshee/images/02_osmotry/01-osnovnye-dannye-v-spiske-osmotrov.png)
 
 **Дополнительные данные:**
 1.  Метки (при наличии) – например, о тестовом осмотре (проведённом в тестовой организации).
@@ -26,16 +26,16 @@
 3.  Графические обозначения медицинских показателей – отклонения от нормы выделены цветом:
 
 <div class="docs-indicators-legend">
-  <span class="docs-indicators-legend-item"><img src="/content/0_docs/1_obshee/images/02_osmotry/figure-02.png" alt=""> — артериальное давление;</span>
-  <span class="docs-indicators-legend-item"><img src="/content/0_docs/1_obshee/images/02_osmotry/figure-03.png" alt=""> — пульс;</span>
-  <span class="docs-indicators-legend-item"><img src="/content/0_docs/1_obshee/images/02_osmotry/figure-04.png" alt=""> — температура кожных покровов;</span>
-  <span class="docs-indicators-legend-item"><img src="/content/0_docs/1_obshee/images/02_osmotry/figure-05.png" alt=""> — этанол (алкоголь) в выдыхаемом воздухе</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/1_obshee/images/02_osmotry/02-legenda-arterial-noe-davlenie.png" alt=""> — артериальное давление;</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/1_obshee/images/02_osmotry/03-legenda-pul-s.png" alt=""> — пульс;</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/1_obshee/images/02_osmotry/04-legenda-temperatura-kozhnyh-pokrovov.png" alt=""> — температура кожных покровов;</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/1_obshee/images/02_osmotry/05-legenda-etanol-alkogol-v-vydyhaemom-vozduh.png" alt=""> — этанол (алкоголь) в выдыхаемом воздухе</span>
 </div>
 
 4.  Примечание, если заключение по осмотру выносилось с отключенным Ассистентом.
 5.  Медицинское заключение по осмотру.
 
-![Дополнительные данные и заключение по осмотру](/content/0_docs/1_obshee/images/02_osmotry/figure-06.png)
+![Дополнительные данные и заключение по осмотру](/content/0_docs/1_obshee/images/02_osmotry/06-dopolnitel-nye-dannye-i-zaklyuchenie-po-os.png)
 
 **Информацию о [серии осмотров](/0_docs/1_obshee/articles/05_seriya-osmotrov#серия-осмотров)**:
 1.  Обозначение серии и количества попыток.
@@ -43,8 +43,8 @@
 3.  Порядковый номер текущей попытки в серии.
 4.  ID попытки, дата и время её прохождения.
 
-![Серия осмотров в карточке](/content/0_docs/1_obshee/images/02_osmotry/figure-07.png)
+![Серия осмотров в карточке](/content/0_docs/1_obshee/images/02_osmotry/07-seriya-osmotrov-v-kartochke.png)
 
 **Технические данные**: где осмотр был пройден, местоположение ПАК – адрес/координаты.
 
-![Технические данные осмотра](/content/0_docs/1_obshee/images/02_osmotry/figure-08.png)
+![Технические данные осмотра](/content/0_docs/1_obshee/images/02_osmotry/08-tehnicheskie-dannye-osmotra.png)

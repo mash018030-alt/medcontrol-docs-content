@@ -7,7 +7,7 @@
 3.  Фильтр для поиска пользователей, созданных в тестовой организации.
 4.  Расширенный фильтр.
 
-![image206.png](/content/0_docs/1_obshee/images/12_polzovateli/figure-01.png)
+![01-rasshirennyy-fil-tr.png](/content/0_docs/1_obshee/images/12_polzovateli/01-rasshirennyy-fil-tr.png)
 
 Через расширенный фильтр можно искать пользователей по:
 
@@ -17,7 +17,7 @@
 4.  Роли.
 5.  Статусу пользователя в АРМ (Активен/Деактивирован).
 
-![image54.png](/content/0_docs/1_obshee/images/12_polzovateli/figure-02.png)
+![02-statusu-pol-zovatelya-v-arm-aktiven-deakti.png](/content/0_docs/1_obshee/images/12_polzovateli/02-statusu-pol-zovatelya-v-arm-aktiven-deakti.png)
 
 В списке найденных пользователей показаны:
 
@@ -30,4 +30,4 @@
 7.  Пол.
 8.  Дата регистрации пользователя в системе.
 
-![image66.png](/content/0_docs/1_obshee/images/12_polzovateli/figure-03.png)
+![03-data-registratsii-pol-zovatelya-v-sisteme.png](/content/0_docs/1_obshee/images/12_polzovateli/03-data-registratsii-pol-zovatelya-v-sisteme.png)

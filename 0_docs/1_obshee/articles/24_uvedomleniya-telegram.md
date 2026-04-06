@@ -4,19 +4,19 @@
 
 Сообщения по результату осмотра содержат ключевые сведения: ФИО работника, дата и время осмотра, заключение медработника (если есть), исходящие медицинские документы (при наличии), а при назначении повторного осмотра – время его прохождения.
 
-![image104.png](/content/0_docs/1_obshee/images/24_uvedomleniya-telegram/figure-01.png)
+![01-uvedomleniya-v-telegram.png](/content/0_docs/1_obshee/images/24_uvedomleniya-telegram/01-uvedomleniya-v-telegram.png)
 
 В уведомлении с ЭПЛ будет номер ЭПЛ, дата его создания, срок действия, номер ТС<span id="ftnt_back2"></span><sup class="docs-fnref"><a href="#ftnt_ref2">2</a></sup>, сам QR-код и ссылка на него.
 
-![image59.png](/content/0_docs/1_obshee/images/24_uvedomleniya-telegram/figure-02.png)
+![02-uvedomleniya-v-telegram.png](/content/0_docs/1_obshee/images/24_uvedomleniya-telegram/02-uvedomleniya-v-telegram.png)
 
 Чтобы получать такие уведомления, работники могут привязать свой Telegram к профилю пользователя через ПАК – система предложит это сделать перед началом осмотра.
 
-![image93.png](/content/0_docs/1_obshee/images/24_uvedomleniya-telegram/figure-03.png)
+![03-uvedomleniya-v-telegram.png](/content/0_docs/1_obshee/images/24_uvedomleniya-telegram/03-uvedomleniya-v-telegram.png)
 
 После нажатия кнопки «Привязать Telegram» появится QR код, который нужно отсканировать.
 
-![image109.png](/content/0_docs/1_obshee/images/24_uvedomleniya-telegram/figure-04.png)
+![04-uvedomleniya-v-telegram.png](/content/0_docs/1_obshee/images/24_uvedomleniya-telegram/04-uvedomleniya-v-telegram.png)
 
 Откроется чат с Telegram-ботом, и профиль пользователя будет автоматически связан с его Telegram-аккаунтом.
 
