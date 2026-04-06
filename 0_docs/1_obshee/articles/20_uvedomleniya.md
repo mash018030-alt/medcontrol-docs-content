@@ -57,7 +57,7 @@
 
 1.  Электронная почта (email) – приходят на почту, которая указана в профиле пользователя:
 
-![image108.png](/content/0_docs/1_obshee/images/20_uvedomleniya/image108.png)
+![image108.png](/content/0_docs/1_obshee/images/20_uvedomleniya/figure-01.png)
 
 2.  Личный кабинет (Web) – отображаются в правом верхнем углу кабинета в АРМ, в разделе «Уведомления».
 
@@ -65,8 +65,8 @@
 <input type="radio" name="carousel-uvedomleniya-web" id="carousel-uvedomleniya-web-1" checked>
 <input type="radio" name="carousel-uvedomleniya-web" id="carousel-uvedomleniya-web-2">
 <div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/20_uvedomleniya/image169.png" alt="Иконка уведомлений в правом верхнем углу кабинета" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/20_uvedomleniya/image179.png" alt="Панель «Уведомления» с списком уведомлений" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/20_uvedomleniya/figure-02.png" alt="Иконка уведомлений в правом верхнем углу кабинета" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/20_uvedomleniya/figure-03.png" alt="Панель «Уведомления» с списком уведомлений" /></div>
 </div>
 <div class="docs-carousel-nav">
 <span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>
@@ -80,7 +80,7 @@
 
 3.  Telegram – уведомления приходят в Telegram, если Telegram-аккаунт привязан к учётной записи пользователя в АРМ / на ПАК (для работников).
 
-![image104.png](/content/0_docs/1_obshee/images/20_uvedomleniya/image104.png)
+![image104.png](/content/0_docs/1_obshee/images/20_uvedomleniya/figure-04.png)
 
 <section class="docs-manual-footnotes" aria-label="Сноски">
 <p class="docs-manual-footnotes__title">Сноски</p>

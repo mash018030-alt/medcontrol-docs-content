@@ -8,7 +8,7 @@
 2.  ФИО пользователя.
 3.  Эталонная фотография пользователя.
 
-![image14.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image14.png)
+![image14.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-01.png)
 
 Ниже данные в карточке разделены на три вкладки.
 
@@ -23,7 +23,7 @@
 5.  Информация о последнем пройденном осмотре или серии осмотров. Также здесь показан статус текущего осмотра или попытки.
 6.  Доступные действия с пользователем<span id="ftnt_back1"></span><sup class="docs-fnref"><a href="#ftnt_ref1">1</a></sup>.
 
-![image180.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image180.png)
+![image180.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-02.png)
 
 ---
 
@@ -34,22 +34,22 @@
 1.  Действующие индивидуальные границы допуска работника. Границы допуска могут быть индивидуальными и отличаться от стандартных – они устанавливаются на основании среднестатистических показателей гемодинамики работника, установленного диагноза и рекомендаций лечащего врача.
 2.  Гемодинамика – график динамики показателей АД, ЧСС, сформированный в соответствии с выбранным временным интервалом.
 
-![image58.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image58.png)
+![image58.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-03.png)
 
 3.  История блокировок пользователя.
 4.  Примечание о снятии блокировки (если применялась ручная разблокировка), включая основание и ответственного.
 
-![image157.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image157.png)
+![image157.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-04.png)
 
 5.  Входящая и исходящая медицинская документация. Входящие документы  загружаются вручную пользователем (любым), исходящие формируются автоматически системой после прохождения осмотра.
 
 1.  При нажатии на входящий документ открывается окно с подробностями и кнопкой для перехода в [карточку документа](/0_docs/1_obshee/articles/16_dokumenty#карточка-документа).
 
-![image61.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image61.png)
+![image61.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-05.png)
 
 2.  При нажатии на исходящий документ на вкладке «Исходящие документы» можно перейти к осмотру, по которому был сформирован документ, просмотреть документ или скачать его.
 
-![image172.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image172.png)
+![image172.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-06.png)
 
 ---
 
@@ -57,13 +57,13 @@
 
 На вкладке «История изменений» показано, какие действия с карточкой и кем были совершены.
 
-![image164.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image164.png)
+![image164.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-07.png)
 
 ---
 
 ### Действия с пользователем
 
-![image4.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image4.png)
+![image4.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-08.png)
 
 Справа отображаются кнопки с доступными действиями в карточке пользователя.
 
@@ -71,12 +71,12 @@
 2.  По кнопке «Осмотры пользователя» отображаются пройденные пользователем осмотры.
 3.  Кнопка «Получить код активации» позволяет получить код для получения/восстановления доступа на ПАК.
 
-![image129.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image129.png)
+![image129.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-09.png)
 
 4.  Через «Добавить» можно создать запрос на [добавление документа](#добавление-документа) или добавить [подписку](/0_docs/1_obshee/articles/21_uvedomleniya-sozdanie-podpiski).
 5.  Кнопка «Редактировать» позволяет изменить личные данные пользователя, его роль или [доступ к организациям](/0_docs/1_obshee/articles/15_sozdanie-polzovatelya#предоставление-доступа-к-организациям).
 
-![image34.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image34.png)
+![image34.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-10.png)
 
 6.  Через «Обновить фотографию» можно заменить имеющуюся в карточке работника эталонную фотографию на новую.
 7.  Через «Архивировать фото» можно сохранить текущую фотографию работника в архив системы.
@@ -84,7 +84,7 @@
 9.  По «Деактивировать» можно сделать карточку пользователя неактивной. При необходимости потом её можно будет снова активировать – в карточке будет соответствующая кнопка.
 10.  Через «Удалить» учётная запись пользователя удаляется из АРМ.
 
-![image90.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image90.png)
+![image90.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-11.png)
 
 Отображение кнопок для пользователя зависит от его роли и соответствующих доступов.
 
@@ -112,13 +112,13 @@
 
 1.  В карточке пользователя нажать «Добавить» и выбрать «Документ».
 
-![image15.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image15.png)
+![image15.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-12.png)
 
 2.  Добавить файл (скан-копию/фотографию документа).
 
 3.  Нажать «Сохранить».
 
-![image196.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image196.png)
+![image196.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-13.png)
 
 ##### Добавление с заполнением
 
@@ -126,18 +126,18 @@
 
 1.  В карточке пользователя нажать «Добавить» и выбрать «Документ».
 
-![image15.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image15.png)
+![image15.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-12.png)
 
 2.  Добавить файл (скан-копию/фотографию документа).
 
 3.  Выбрать тип документа.
 4.  Нажать для добавления дополнительных данных.
 
-![image65.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image65.png)
+![image65.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-14.png)
 
 1.  По кнопке «Удалить» можно убрать строку с дополнительными данными.
 
-![image39.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image39.png)
+![image39.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-15.png)
 
 В дополнительных данных указать:
 
@@ -151,11 +151,11 @@
 9.  Срок действия документа. Поле «Период действия документа» заполняется автоматически с учетом даты выдачи и выбранного срока действия документа.
 10.  Нажать «Сохранить» или «Сохранить и подтвердить» в зависимости от доступов и цели добавления документа.
 
-![image45.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image45.png)
+![image45.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-16.png)
 
 После добавления документ появится на вкладке «Медданные» в блоке «Прикрепленные документы» – «Входящие документы». Если документ был просто добавлен, он будет со статусом «На рассмотрении» до момента его проверки медработником. После проверки статус сменится на «Действует» или «Отклонён». Если же документ был добавлен и сразу подтверждён, он отобразится со статусом «Действует».
 
-![image190.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image190.png)
+![image190.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-17.png)
 
 ---
 
@@ -165,16 +165,16 @@
 
 1.  Загрузить фотографию
 
-![image26.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image26.png)
+![image26.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-18.png)
 
 2.  Обновить фотографию.
 3.  Архивировать фотографию (если фото нужно заменить).
 
-![image115.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image115.png)
+![image115.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-19.png)
 
 При архивации фотографии необходимо указать причину архивации. Во время следующего осмотра работник на ПАК увидит предложение сделать новую фотографию.
 
-![image175.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image175.png)
+![image175.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-20.png)
 
 ---
 
@@ -191,19 +191,19 @@
 - признаки особенности поведения;
 - неустойчивая концентрация внимания.
 
-![image201.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image201.png)
+![image201.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-21.png)
 
 Статус блокировки:
 
-![image94.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image94.png)
+![image94.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-22.png)
 
 \-- активная блокировка;
 
-![image155.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image155.png)
+![image155.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-23.png)
 
 \-- неактивная блокировка.
 
-![image199.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/image199.png)
+![image199.png](/content/0_docs/1_obshee/images/14_kartochka-polzovatelya/figure-24.png)
 
 Разблокировать пользователя может медработник на основании подтверждённого документа или по обращению в медорганизацию.
 

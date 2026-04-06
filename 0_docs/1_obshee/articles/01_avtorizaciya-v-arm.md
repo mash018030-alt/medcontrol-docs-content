@@ -4,16 +4,16 @@
 1.  Перейти по ссылке [](https://www.google.com/url?q=https://portal.medcontrol.cloud/login&sa=D&source=editors&ust=1773660272566544&usg=AOvVaw0jpHQ9cZxOtyhEczjxye6g)[https://portal.medcontrol.cloud/login](https://www.google.com/url?q=https://portal.medcontrol.cloud/login&sa=D&source=editors&ust=1773660272566664&usg=AOvVaw0_hlF3rzruhQTIFNOOeoaz).
 2.  Нажать на кнопку «Получить или восстановить доступ».
 
-![image158.png](/content/0_docs/1_obshee/images/01_avtorizaciya-v-arm/image158.png)
+![image158.png](/content/0_docs/1_obshee/images/01_avtorizaciya-v-arm/figure-01.png)
 
 3.  Ввести личный логин. В АРМ логином является адрес электронной почты (email), который указывался при регистрации УЗ. Нажать «Далее».
 4.  Получить на электронную почту код, ввести его в окне и нажать «Получить доступ и установить пароль».
 
-![image67.png](/content/0_docs/1_obshee/images/01_avtorizaciya-v-arm/image67.png)
+![image67.png](/content/0_docs/1_obshee/images/01_avtorizaciya-v-arm/figure-02.png)
 
 5. Придумать пароль в соответствии с требованиями АРМ,  запомнить его, ввести и нажать «Сохранить и перейти в личный кабинет».
 
-![image138.png](/content/0_docs/1_obshee/images/01_avtorizaciya-v-arm/image138.png)
+![image138.png](/content/0_docs/1_obshee/images/01_avtorizaciya-v-arm/figure-03.png)
 
 При дальнейшей авторизации нужно будет вводить указанную ранее электронную почту и придуманный пароль.
 

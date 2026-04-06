@@ -11,7 +11,7 @@
 3.  Признаку «Тестовые» – для поиска ПАК, созданных в тестовой организации.
 4.  Организации, статусу подключения и типу ПАК – через расширенный фильтр.
 
-![image106.png](/content/0_docs/1_obshee/images/19_pak/image106.png)
+![image106.png](/content/0_docs/1_obshee/images/19_pak/figure-01.png)
 
 В разделе со списком ПАК отображаются:
 
@@ -21,7 +21,7 @@
 4.  Статус – подключен/отключен.
 5.  Дата создания ПАК в АРМ.
 
-![image18.png](/content/0_docs/1_obshee/images/19_pak/image18.png)
+![image18.png](/content/0_docs/1_obshee/images/19_pak/figure-02.png)
 
 ---
 
@@ -31,7 +31,7 @@
 
 Наверху отображается организация, в которой ПАК зарегистрирован, визуальное отображение типа ПАК – настольный/мобильный.
 
-![image195.png](/content/0_docs/1_obshee/images/19_pak/image195.png)
+![image195.png](/content/0_docs/1_obshee/images/19_pak/figure-03.png)
 
 Ниже находятся 3 вкладки – информация, подключенные устройства и журналы.
 
@@ -39,7 +39,7 @@
 
 Здесь отображаются основные данные, данные о поверке и прошивка ПАК.
 
-![image177.png](/content/0_docs/1_obshee/images/19_pak/image177.png)
+![image177.png](/content/0_docs/1_obshee/images/19_pak/figure-04.png)
 
 ---
 
@@ -47,7 +47,7 @@
 
 Здесь показаны технические данные о подключенных к ПАК устройствах – камера, принтер, периферийный хаб и пр.
 
-![image88.png](/content/0_docs/1_obshee/images/19_pak/image88.png)
+![image88.png](/content/0_docs/1_obshee/images/19_pak/figure-05.png)
 
 ---
 
@@ -55,7 +55,7 @@
 
 В «Журнале» можно экспортировать логи работы и отчёты ошибок ПАК, чтобы подробно изучить информацию о работе устройства и при необходимости отправить её сотрудникам технической поддержки.
 
-![image38.png](/content/0_docs/1_obshee/images/19_pak/image38.png)
+![image38.png](/content/0_docs/1_obshee/images/19_pak/figure-06.png)
 
 ### Действия с ПАК
 
@@ -66,4 +66,4 @@
 3.  Открыть список осмотров, пройденных на этом ПАК.
 4.  Перейти на сайт метрологии ФГИС АРШИН с информацией о поверке ПАК.
 
-![image121.png](/content/0_docs/1_obshee/images/19_pak/image121.png)
+![image121.png](/content/0_docs/1_obshee/images/19_pak/figure-07.png)

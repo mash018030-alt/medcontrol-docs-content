@@ -7,12 +7,12 @@
 1.  Перейти в раздел «Отчёты».
 2.  Выбрать нужный отчёт.
 
-![image123.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/image123.png)
+![image123.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-01.png)
 
 3.  Заполнить параметры: тип (при наличии), организация, сотрудник, контрагент, период формирования (максимум – 31 день), часовой пояс отображения времени, формат и пр. Параметр «Подписать квалифицированной электронной подписью» предназначен для медработников, которые заверяют документ своей УКЭП.
 4.  Нажать «Сформировать».
 
-![image40.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/image40.png)
+![image40.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-02.png)
 
 ---
 
@@ -25,7 +25,7 @@
 3.  Статусу (готов/ошибка/формируется/подписывается).
 4.  Времени создания.
 
-![image78.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/image78.png)
+![image78.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-03.png)
 
 Ниже под фильтрами – информация по каждому отчёту:
 
@@ -40,7 +40,7 @@
 9.  Кнопка для скачивания отчёта. После скачивания файл попадает в папку с загрузками на ПК, оттуда его можно открыть для просмотра.
 10.  Кнопка для удаления отчёта из истории.
 
-![image97.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/image97.png)
+![image97.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-04.png)
 
 По строке «Подробнее» отображаются:
 
@@ -49,4 +49,4 @@
 3.  Часовой пояс отображения событий в отчёте.
 4.  Технические данные, которые могут быть использованы сотрудниками техподдержкой/сервисными инженерами при ошибках.
 
-![image70.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/image70.png)
+![image70.png](/content/0_docs/1_obshee/images/18_deystviya-s-otchetami/figure-05.png)

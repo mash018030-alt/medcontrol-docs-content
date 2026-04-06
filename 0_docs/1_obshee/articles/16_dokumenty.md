@@ -12,7 +12,7 @@
 4. Дате.
 5. Расширенному фильтру.
 
-![image99.png](/content/0_docs/1_obshee/images/16_dokumenty/image99.png)
+![image99.png](/content/0_docs/1_obshee/images/16_dokumenty/figure-01.png)
 
 В фильтре по дате можно указать:
 
@@ -20,7 +20,7 @@
 2. Даты для произвольного периода поиска.
 3. Время начала и окончания фильтрации.
 
-![image51.png](/content/0_docs/1_obshee/images/16_dokumenty/image51.png)
+![image51.png](/content/0_docs/1_obshee/images/16_dokumenty/figure-02.png)
 
 Через расширенный фильтр доступен поиск документа по:
 
@@ -29,7 +29,7 @@
 3. Организации работника, в карточку которого загружен документ.
 4. Медработнику, загрузившему/обработавшему документ.
 
-![image184.png](/content/0_docs/1_obshee/images/16_dokumenty/image184.png)
+![image184.png](/content/0_docs/1_obshee/images/16_dokumenty/figure-03.png)
 
 В общем списке документов в разделе отображаются:
 
@@ -41,7 +41,7 @@
 6. ФИО работника, в карточку которого загружен документ.
 7. Организация работника.
 
-![image197.png](/content/0_docs/1_obshee/images/16_dokumenty/image197.png)
+![image197.png](/content/0_docs/1_obshee/images/16_dokumenty/figure-04.png)
 
 ---
 
@@ -57,7 +57,7 @@
 4. Информация об осмотре, по которому сформирован документ (для исходящих) или по работнику (для входящих). При клике на мини-карточку осмотра внутри исходящего документа откроется модальное окно с подробной информацией.
 5. Для исходящих документов – другие документы по осмотру (при наличии).
 
-![image63.png](/content/0_docs/1_obshee/images/16_dokumenty/image63.png)
+![image63.png](/content/0_docs/1_obshee/images/16_dokumenty/figure-05.png)
 
 1. Статус документа.
 2. Тип документа.
@@ -66,14 +66,14 @@
 5. ФИО медработника, подписавшего исходящий документ.
 6. Кнопка для скачивания документа.
 
-![image181.png](/content/0_docs/1_obshee/images/16_dokumenty/image181.png)
+![image181.png](/content/0_docs/1_obshee/images/16_dokumenty/figure-06.png)
 
 7. Окно, где можно посмотреть документ, увеличить его, открыть в отдельном окне и скачать.
 
-![image122.png](/content/0_docs/1_obshee/images/16_dokumenty/image122.png)
+![image122.png](/content/0_docs/1_obshee/images/16_dokumenty/figure-07.png)
 
 ### История обработки
 
 На вкладке «История обработки» отображается вся информация по документу: кто и когда его добавил, изменил, утвердил или отправил на подпись. Также показано, использовался ли входящий документ для снятия блокировки с пользователя.
 
-![image192.png](/content/0_docs/1_obshee/images/16_dokumenty/image192.png)
+![image192.png](/content/0_docs/1_obshee/images/16_dokumenty/figure-08.png)

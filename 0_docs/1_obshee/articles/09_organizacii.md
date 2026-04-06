@@ -14,7 +14,7 @@
 8.  Количество пользователей, зарегистрированных в организации.
 9.  Количество ПАК, привязанных к организации.
 
-![image101.png](/content/0_docs/1_obshee/images/09_organizacii/image101.png)
+![image101.png](/content/0_docs/1_obshee/images/09_organizacii/figure-01.png)
 
 10.  Платёжный профиль организации.
 11.  Профиль медобслуживания.
@@ -22,11 +22,11 @@
 13.  Обозначение типа организации – компания/ИП/группа/подразделение.
 14.  Метка профиля точки выпуска.
 
-![image19.png](/content/0_docs/1_obshee/images/09_organizacii/image19.png)
+![image19.png](/content/0_docs/1_obshee/images/09_organizacii/figure-02.png)
 
 ## Поиск организаций
 
-![image69.png](/content/0_docs/1_obshee/images/09_organizacii/image69.png)
+![image69.png](/content/0_docs/1_obshee/images/09_organizacii/figure-03.png)
 
 Через расширенный фильтр можно отсортировать организации по:
 
@@ -42,7 +42,7 @@
 6.  платежному признаку – является ли организация контрагентом;
 7.  организации-контрагенту, оплачивающей осмотры.
 
-![image81.png](/content/0_docs/1_obshee/images/09_organizacii/image81.png)
+![image81.png](/content/0_docs/1_obshee/images/09_organizacii/figure-04.png)
 
 ---
 
@@ -52,8 +52,8 @@
 
 Все объекты, созданные в тестовой организации (пользователи, ПАК, осмотры, дочерние организации), являются тестовыми и выделяются меткой.
 
-![image170.png](/content/0_docs/1_obshee/images/09_organizacii/image170.png)
+![image170.png](/content/0_docs/1_obshee/images/09_organizacii/figure-05.png)
 
 При поиске в АРМ они отображаются при включённом параметре «Тестовые».
 
-![image92.png](/content/0_docs/1_obshee/images/09_organizacii/image92.png)
+![image92.png](/content/0_docs/1_obshee/images/09_organizacii/figure-06.png)

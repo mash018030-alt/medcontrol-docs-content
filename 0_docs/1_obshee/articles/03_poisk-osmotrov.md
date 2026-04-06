@@ -8,23 +8,23 @@
 
 - <span class="docs-li-underline">Поле для ручного ввода данных:</span>
 
-![image71.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/image71.png)
+![image71.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-01.png)
 
 - <span class="docs-li-underline">Переключатель для группировки попыток осмотров на серии</span>
 
-![image143.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/image143.png)
+![image143.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-02.png)
 
 - <span class="docs-li-underline">Поиск осмотра по его ID номеру:</span>
 
-![image37.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/image37.png)
+![image37.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-03.png)
 
 - <span class="docs-li-underline">Поиск тестовых осмотров:</span>
 
-![image203.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/image203.png)
+![image203.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-04.png)
 
 - <span class="docs-li-underline">Временной диапазон</span> – поиск осмотров по периоду времени, в течение которого они были проведены:
 
-![image127.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/image127.png)
+![image127.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-05.png)
 
 <details class="docs-disclosure">
 <summary>Диапазон отображения осмотров по умолчанию</summary>
@@ -36,14 +36,14 @@
 2. Диапазон по датам в календаре.
 3. Время начала и окончания фильтрации.
 
-![image17.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/image17.png)
+![image17.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-06.png)
 
 </div>
 </details>
 
 <p><span class="docs-li-underline">Расширенный фильтр:</span></p>
 
-![image62.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/image62.png)
+![image62.png](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-07.png)
 
 <details class="docs-disclosure">
 <summary>Содержание расширенного фильтра</summary>
@@ -61,7 +61,7 @@
 10.  Замечания, выявленные при анализе осмотра.
 11.  Дополнительные параметры.
 
-![Содержание расширенного фильтра](/content/0_docs/1_obshee/images/03_poisk-osmotrov/Poisk_osmotrov/Frame%202131329945.png)
+![Содержание расширенного фильтра](/content/0_docs/1_obshee/images/03_poisk-osmotrov/figure-08.png)
 
 </div>
 </details>

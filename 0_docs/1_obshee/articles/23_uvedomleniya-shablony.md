@@ -12,19 +12,19 @@
 
 1.  Открыть настройки созданной подписки.
 
-![image43.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image43.png)
+![image43.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-01.png)
 
 2.  Нажать «Сохранить как шаблон».
 
-![image8.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image8.png)
+![image8.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-02.png)
 
 3.  Дать наименование шаблону, настроить его общедоступность, проверить настройки событий и каналов и сохранить.
 
-![image205.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image205.png)
+![image205.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-03.png)
 
 4.  Шаблон сохранен. В окне настроек подписки появится пометка «Сохранено как шаблон».
 
-![image36.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image36.png)
+![image36.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-04.png)
 
 ---
 
@@ -39,11 +39,11 @@
 1.  Нажать «Добавить подписку» в карточке пользователя или организации.
 2.  В поле «Выберите шаблон» выбрать нужный шаблон.
 
-![image55.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image55.png)
+![image55.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-05.png)
 
 3.  Проверить указанные события и каналы и нажать «Добавить».
 
-![image107.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image107.png)
+![image107.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-06.png)
 
 ---
 
@@ -68,11 +68,11 @@
 1.  Открыть настройки этой подписки.
 2.  Нажать «Выбрать шаблон».
 
-![image48.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image48.png)
+![image48.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-07.png)
 
 3.  Выбрать нужный шаблон и нажать «Сохранить».
 
-![image186.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image186.png)
+![image186.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-08.png)
 
 ### Создание новой подписки
 
@@ -81,7 +81,7 @@
 1.  После добавления подписки зайти в её настройки.
 2.  В меню справа нажать «Выбрать шаблон».
 
-![image25.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image25.png)
+![image25.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-09.png)
 
 3.  Выбрать нужный шаблон и сохранить.
 
@@ -96,13 +96,13 @@
 1.  Была создана подписка с событием «Административные замечания» и каналом «Email».
 2.  Эта подписка сохранена как шаблон «Админ. замечания почта» .
 
-![image144.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image144.png)
+![image144.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-10.png)
 
 3.  Затем подписку отредактировали – добавили ещё одно правило «Неявка на повторный осмотр» с каналом «Telegram».
 4.  В меню обновлённой подписки появляется кнопка «Привести к шаблону».
 
-![image46.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image46.png)
+![image46.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-11.png)
 
 5.  Если нажать на эту кнопку, текущая подписка вернётся к настройкам выбранного шаблона, то есть к исходной подписке с событием «Административные замечания» и каналом «Email».
 
-![image134.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/image134.png)
+![image134.png](/content/0_docs/1_obshee/images/23_uvedomleniya-shablony/figure-12.png)

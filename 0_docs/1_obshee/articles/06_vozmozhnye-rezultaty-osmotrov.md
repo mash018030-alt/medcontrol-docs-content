@@ -4,24 +4,24 @@
 
 Обработанные осмотры можно найти в разделе «Осмотры» через расширенный фильтр «Результат осмотра».
 
-![image162.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image162.png)
+![image162.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-01.png)
 
 Необработанные – через фильтр «Дополнительные параметры».
 
-![image7.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image7.png)
+![image7.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-02.png)
 
 ## Обработанные осмотры
 
 При обработке медработник выносит решение:
 - «Допустить»/Не допустить» – по предрейсовому и предсменному осмотру;
 
-![image204.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image204.png)
+![image204.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-03.png)
 
 Такие осмотры будут отображаться с заключением «Допущен»/«Не допущен»
 
 - «Валидировать» – по послерейсовому, послесменному осмотру и осмотру в течение рабочего дня (смены).
 
-![image24.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image24.png)
+![image24.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-04.png)
 
 У этих осмотров будет заключение «Прошёл»/«Не прошёл».
 
@@ -66,9 +66,9 @@
 <input type="radio" name="carousel-osmotry-zamechaniya" id="carousel-osmotry-zamechaniya-2">
 <input type="radio" name="carousel-osmotry-zamechaniya" id="carousel-osmotry-zamechaniya-3">
 <div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image193.png" alt="Выбор медицинских замечаний при вынесении заключения" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image207.png" alt="Выбор административных замечаний: критичные и некритичные" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image176.png" alt="Выбор технических замечаний при вынесении заключения" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-05.png" alt="Выбор медицинских замечаний при вынесении заключения" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-06.png" alt="Выбор административных замечаний: критичные и некритичные" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-07.png" alt="Выбор технических замечаний при вынесении заключения" /></div>
 </div>
 <div class="docs-carousel-nav">
 <span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>
@@ -108,11 +108,11 @@
 
 Осмотр с заключением:
 
-![image29.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image29.png)
+![image29.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-08.png)
 
 Осмотр с заключением и причиной отстранения:
 
-![image49.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image49.png)
+![image49.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-09.png)
 
 ---
 
@@ -120,39 +120,39 @@
 
 Необработанные осмотры не отправляются медработнику на вынесение заключения и будут отображаться только с результатом, который проставляется автоматически.
 
-![image166.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image166.png)
+![image166.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-10.png)
 
 Возможные результаты необработанных осмотров:
 
 - Нарушение тех.условий – условия окружающей среды в помещении, где установлен ПАК или технические параметры не соответствуют требуемым. Например, нарушена целостность корпуса ПАК/недостаточный уровень освещения. Отображается при выборе фильтра «Нарушены тех.условия» и/или «Вскрыт корпус».
 
-![image140.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image140.png)
+![image140.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-11.png)
 
 - Таймаут обработки (по фильтру «Сбой обработки) – не было вынесено заключение по осмотру в течение 30 минут.
 
-![image75.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image75.png)
+![image75.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-12.png)
 
 - Нарушение порядка проведения осмотра – если работник некорректно проводил измерения, например, неправильно наложил манжету/слабо выдыхал в трубку при алкотестировании и пр.
 
-![image89.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image89.png)
+![image89.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-13.png)
 
 - Осмотр не завершён (прерван пользователем) – осмотр прерван работником в процессе его прохождения (нажал кнопку «Завершить осмотр»). Результат отображается по фильтру «Незавершённые осмотры»
 
-![image146.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image146.png)
+![image146.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-14.png)
 
 - Осмотр не завершён (тайм-аут) – работник не успел пройти осмотр в отведённое время. Результат отображается по фильтру «Незавершённые осмотры».
 
-![image161.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image161.png)
+![image161.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-15.png)
 
 - Отменён вручную – осмотр отменен работником после его прохождения осмотра. Отмена производится через ПАК. Отменить можно осмотры, которые не отправились медработникам по техническим причинам (например, не подгрузилось видео). Результат отображается по фильтру «Незавершённые осмотры».
 
-![image100.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image100.png)
+![image100.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-16.png)
 
 - Сбой видео (по фильтру «Видео не загрузилось») – в осмотр не загрузилось видео в течение отведённого времени (10 минут).
 
-![image171.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image171.png)
+![image171.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-17.png)
 
 - Сбой оборудования – при прохождении осмотра оборудование вышло из строя, измерения провести невозможно.
 
-![image136.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/image136.png)
+![image136.png](/content/0_docs/1_obshee/images/06_vozmozhnye-rezultaty-osmotrov/figure-18.png)
 

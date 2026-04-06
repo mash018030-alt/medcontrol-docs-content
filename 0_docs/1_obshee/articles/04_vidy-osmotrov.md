@@ -49,9 +49,9 @@
 <input type="radio" name="carousel-vidy-osmotrov-metki" id="carousel-vidy-osmotrov-metki-2">
 <input type="radio" name="carousel-vidy-osmotrov-metki" id="carousel-vidy-osmotrov-metki-3">
 <div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/04_vidy-osmotrov/vidy_osmotrov/1.png" alt="Карточка осмотра с меткой «Сервисное меню» в списке" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/04_vidy-osmotrov/vidy_osmotrov/2.png" alt="Карточка осмотра с меткой «Тестовый»" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/04_vidy-osmotrov/vidy_osmotrov/3.png" alt="Карточка осмотра с меткой «Эмуляция»" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/04_vidy-osmotrov/figure-01.png" alt="Карточка осмотра с меткой «Сервисное меню» в списке" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/04_vidy-osmotrov/figure-02.png" alt="Карточка осмотра с меткой «Тестовый»" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/04_vidy-osmotrov/figure-03.png" alt="Карточка осмотра с меткой «Эмуляция»" /></div>
 </div>
 <div class="docs-carousel-nav">
 <span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>
@@ -89,4 +89,4 @@
 
 Талоны по сервисным и тестовым осмотрам выделяются меткой «Тест»:
 
-![image128.png](/content/0_docs/1_obshee/images/04_vidy-osmotrov/image128.png)
+![image128.png](/content/0_docs/1_obshee/images/04_vidy-osmotrov/figure-04.png)

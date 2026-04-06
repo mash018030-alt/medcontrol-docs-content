@@ -29,7 +29,7 @@
 
 Как выглядит:
 
-![image125.png](/content/0_docs/1_obshee/images/17_otchety/image125.png)
+![image125.png](/content/0_docs/1_obshee/images/17_otchety/figure-01.png)
 
 ---
 
@@ -41,11 +41,11 @@
 
 - сводная таблица;
 
-![image2.png](/content/0_docs/1_obshee/images/17_otchety/image2.png)
+![image2.png](/content/0_docs/1_obshee/images/17_otchety/figure-02.png)
 
 - детализация.
 
-![image5.png](/content/0_docs/1_obshee/images/17_otchety/image5.png)
+![image5.png](/content/0_docs/1_obshee/images/17_otchety/figure-03.png)
 
 ---
 
@@ -59,35 +59,35 @@
 
 - работники старше 55 лет;
 
-![image189.png](/content/0_docs/1_obshee/images/17_otchety/image189.png)
+![image189.png](/content/0_docs/1_obshee/images/17_otchety/figure-04.png)
 
 - Д-учёт;
 
-![image202.png](/content/0_docs/1_obshee/images/17_otchety/image202.png)
+![image202.png](/content/0_docs/1_obshee/images/17_otchety/figure-05.png)
 
 - риск развития нарушений сердечного ритма;
 
-![image163.png](/content/0_docs/1_obshee/images/17_otchety/image163.png)
+![image163.png](/content/0_docs/1_obshee/images/17_otchety/figure-06.png)
 
 - риск напряжения регуляторных систем;
 
-![image91.png](/content/0_docs/1_obshee/images/17_otchety/image91.png)
+![image91.png](/content/0_docs/1_obshee/images/17_otchety/figure-07.png)
 
 - употребление алкоголя:
 
-![image165.png](/content/0_docs/1_obshee/images/17_otchety/image165.png)
+![image165.png](/content/0_docs/1_obshee/images/17_otchety/figure-08.png)
 
 - риск развития сердечно-сосудистых заболеваний;
 
-![image178.png](/content/0_docs/1_obshee/images/17_otchety/image178.png)
+![image178.png](/content/0_docs/1_obshee/images/17_otchety/figure-09.png)
 
 - риск развития сердечно-сосудистых осложнений;
 
-![image191.png](/content/0_docs/1_obshee/images/17_otchety/image191.png)
+![image191.png](/content/0_docs/1_obshee/images/17_otchety/figure-10.png)
 
 - общая группа рисков.
 
-![image60.png](/content/0_docs/1_obshee/images/17_otchety/image60.png)
+![image60.png](/content/0_docs/1_obshee/images/17_otchety/figure-11.png)
 
 ### Журнал регистрации отстраненных работников
 
@@ -97,7 +97,7 @@
 
 Как выглядит:
 
-![image105.png](/content/0_docs/1_obshee/images/17_otchety/image105.png)
+![image105.png](/content/0_docs/1_obshee/images/17_otchety/figure-12.png)
 
 ### Журнал учета выданных справок в ЛПУ
 
@@ -105,7 +105,7 @@
 
 Как выглядит:
 
-![image77.png](/content/0_docs/1_obshee/images/17_otchety/image77.png)
+![image77.png](/content/0_docs/1_obshee/images/17_otchety/figure-13.png)
 
 ### Журнал учета выданных направлений на мед.освидетельствование
 
@@ -113,7 +113,7 @@
 
 Как выглядит:
 
-![image147.png](/content/0_docs/1_obshee/images/17_otchety/image147.png)
+![image147.png](/content/0_docs/1_obshee/images/17_otchety/figure-14.png)
 
 ---
 
@@ -125,7 +125,7 @@
 
 Как выглядит:
 
-![image87.png](/content/0_docs/1_obshee/images/17_otchety/image87.png)
+![image87.png](/content/0_docs/1_obshee/images/17_otchety/figure-15.png)
 
 ### Статистика смен
 
@@ -135,7 +135,7 @@
 
 Как выглядит:
 
-![image174.png](/content/0_docs/1_obshee/images/17_otchety/image174.png)
+![image174.png](/content/0_docs/1_obshee/images/17_otchety/figure-16.png)
 
 ### Длительность обработки осмотров
 
@@ -148,4 +148,4 @@
 
 Как выглядит:
 
-![image52.png](/content/0_docs/1_obshee/images/17_otchety/image52.png)
+![image52.png](/content/0_docs/1_obshee/images/17_otchety/figure-17.png)

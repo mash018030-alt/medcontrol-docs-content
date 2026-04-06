@@ -10,11 +10,11 @@
 6.  Кнопка «Перезагрузить» – обновляет web-страницу и перезапускает внутренние процессы АРМ.
 7.  Кнопка «Выйти» для завершения сеанса в АРМ.
 
-![image120.png](/content/0_docs/1_obshee/images/13_profil-polzovatelya/image120.png)
+![image120.png](/content/0_docs/1_obshee/images/13_profil-polzovatelya/figure-01.png)
 
 Часовой пояс можно изменить – тогда все фильтры и события в системе будут отображаться с учетом выбранной настройки. Будут изменены как время, так и даты отображения.
 
-![image182.png](/content/0_docs/1_obshee/images/13_profil-polzovatelya/image182.png)
+![image182.png](/content/0_docs/1_obshee/images/13_profil-polzovatelya/figure-02.png)
 
 ---
 
@@ -24,4 +24,4 @@
 
 Ответственные лица организации могут настраивать этот раздел под свои задачи.
 
-![image153.png](/content/0_docs/1_obshee/images/13_profil-polzovatelya/image153.png)
+![image153.png](/content/0_docs/1_obshee/images/13_profil-polzovatelya/figure-03.png)

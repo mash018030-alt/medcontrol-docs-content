@@ -12,27 +12,27 @@
     - Перейти на вкладку «Настройки» – «Уведомления» и там кликнуть «Добавить подписку»;
     - Нажать на иконку своего профиля в правом верхнем углу кабинета и выбрать «Настройка уведомлений».
 
-![image30.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image30.png)
+![image30.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-01.png)
 
 2.  Далее в появившемся окне нужно выбрать нужную организацию, включить/исключить оповещения по дочерним организациям, опционально выбрать [шаблон](/0_docs/1_obshee/articles/23_uvedomleniya-shablony), нажать «Добавить»:
 
-![image28.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image28.png)
+![image28.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-02.png)
 
 3.  Подписка появилась в карточке пользователя, на вкладке «Настройки» – «Уведомления». Теперь нужно нажать на кнопку редактирования.
 
-![image22.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image22.png)
+![image22.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-03.png)
 
 4.  Открылось окно самой подписки. Чтобы уведомления начали приходить, требуется добавить правило – событие, по которому будут поступать оповещения.
 
-![image148.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image148.png)
+![image148.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-04.png)
 
 5.  Выбрать нужное событие<span id="ftnt_back1"></span><sup class="docs-fnref"><a href="#ftnt_ref1">1</a></sup> и каналы доставки, нажать «Сохранить».
 
-![image21.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image21.png)
+![image21.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-05.png)
 
 6.  Правило успешно добавилось:
 
-![image117.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image117.png)
+![image117.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-06.png)
 
 ---
 
@@ -46,14 +46,14 @@
 
 1.  В меню справа нажать «Добавить» и выбрать «Добавить подписку». Либо открыть вкладку «Уведомления» в настройках организации и нажать «Добавить подписку»
 
-![image31.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image31.png)
+![image31.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-07.png)
 
 2.  Выбрать пользователя, которому будут приходить уведомления, включить/исключить из подписки дочерние организации, опционально выбрать [шаблон](/0_docs/1_obshee/articles/23_uvedomleniya-shablony). Нажать «Добавить».
-![image131.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image131.png)
+![image131.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-08.png)
 
 3.  Добавить правило – открыть раздел «Настройки», перейти на вкладку «Уведомления» и нажать «Настроить».
 
-![image72.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image72.png)
+![image72.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-09.png)
 
 4.  Дальнейшая настройка подписки происходит аналогично настройке [в карточке пользователя](#в-карточке-пользователя).
 
@@ -65,11 +65,11 @@
 
 - В карточке пользователя: «Настройки» – «Уведомления»:
 
-![image11.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image11.png)
+![image11.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-10.png)
 
 - В карточке организации: в аналогичном разделе «Настройки» – «Уведомления»:
 
-![image53.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/image53.png)
+![image53.png](/content/0_docs/1_obshee/images/21_uvedomleniya-sozdanie-podpiski/figure-11.png)
 
 <section class="docs-manual-footnotes" aria-label="Сноски">
 <p class="docs-manual-footnotes__title">Сноски</p>
