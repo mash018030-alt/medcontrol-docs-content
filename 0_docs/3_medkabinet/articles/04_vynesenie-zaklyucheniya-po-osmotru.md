@@ -20,7 +20,7 @@
 4.  Оценить процесс прохождения работником этапов медицинского осмотра по видеозаписи.
 5.  Вынести заключение.
 
-![image45.png](/content/images/medkabinet/image45.png)
+![Этапы вынесения заключения по осмотру](/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/01-etapy-vyneseniya-zaklyucheniya.png)
 
 ---
 
@@ -30,11 +30,11 @@
 
 1.  Нажать на кнопку «Допустить» в правом нижнем углу.
 
-<img src="/content/images/medkabinet/image56.png" alt="" class="docs-inline-icon" />
+<img src="/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/08-icon-knopka-dopustit.png" alt="" class="docs-inline-icon" />
 
 2.  Подтвердить решение кнопкой «Подтвердить».
 
-![image49.png](/content/images/medkabinet/image49.png)
+![Подтверждение допуска](/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/02-okno-podtverzhdeniya-dopucka.png)
 
 ---
 
@@ -44,24 +44,24 @@
 
 1.  Нажать кнопку «Не допустить» в левом нижнем углу.
 
-<img src="/content/images/medkabinet/image63.png" alt="" class="docs-inline-icon" />
+<img src="/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/09-icon-knopka-ne-dopustit.png" alt="" class="docs-inline-icon" />
 
 2.  Отметить все выявленные отклонения и/или замечания.
 
 
-![image24.png](/content/images/medkabinet/image24.png)
+![Форма медицинских замечаний при недопуске](/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/03-forma-zamechanij-pri-nedopusk.png)
 
 3.  Нажать «Продолжить».
 
-<img src="/content/images/medkabinet/image3.png" alt="" class="docs-inline-icon" />
+<img src="/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/10-icon-knopka-prodolzhit.png" alt="" class="docs-inline-icon" />
 
 4.  Вписать общий комментарий по осмотру при необходимости, подтвердить решение о недопуске кнопкой «Подтвердить».
 
-![image1.png](/content/images/medkabinet/image1.png)
+![Комментарий к осмотру и подтверждение](/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/04-kommentarij-k-osmotru-podtverdit.png)
 
 Общий комментарий к осмотру фиксируется в медицинском журнале, в графе «Прочие причины отстранения», а также в карточке закрытого осмотра.
 
-![image8.png](/content/images/medkabinet/image8.png)
+![Закрытый осмотр с комментарием](/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/05-zakrytyj-osmotr-s-kommentariem.png)
 
 ---
 
@@ -69,7 +69,7 @@
 
 Если в ходе осмотра выявлены признаки травмы, нужно отметить «Травма» в медицинских замечаниях.
 
-<img src="/content/images/medkabinet/image21.png" alt="" class="docs-inline-icon" />
+<img src="/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/11-icon-zamechanie-travma.png" alt="" class="docs-inline-icon" />
 
 Далее:
 
@@ -85,11 +85,11 @@
 «+ Добавить травму»
 4.  По кнопке «х» можно удалить указанную травму.
 
-![image50.png](/content/images/medkabinet/image50.png)
+![Локализация травмы и добавление записи](/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/06-travma-lokalizaciya-i-dobavit.png)
 
 Также можно указать локализацию травмы вручную, выбрав из перечня «Другая локализация».
 
-<img src="/content/images/medkabinet/image34.png" alt="" class="docs-inline-icon" />
+<img src="/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/12-icon-drugaia-lokalizaciya-travmy.png" alt="" class="docs-inline-icon" />
 
 ---
 
@@ -101,4 +101,4 @@
 - окне комментариев;
 - окне подтверждения принятого заключения.
 
-![image64.png](/content/images/medkabinet/image64.png)
+![Кнопка «Добавить 20 секунд»](/content/0_docs/3_medkabinet/images/04_vynesenie-zaklyucheniya-po-osmotru/07-knopka-dobavit-20-sekund.png)

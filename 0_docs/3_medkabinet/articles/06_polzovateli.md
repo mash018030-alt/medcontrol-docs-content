@@ -10,13 +10,13 @@
 
 1.  Нажать на кнопку для снятия блокировки.
 
-![Кнопка снятия блокировки в карточке пользователя](/content/images/medkabinet/image6.png)
+![Кнопка снятия блокировки в карточке пользователя](/content/0_docs/3_medkabinet/images/06_polzovateli/01-knopka-snyatiya-blokirovki.png)
 
 2.  В открывшемся окне выбрать действующий документ, на основании которого можно снять текущую блокировку.
 3.  Оставить комментарий с указанием причины разблокировки.
 4.  Нажать «Разблокировать».
 
-![image13.png](/content/images/medkabinet/image13.png)
+![Окно разблокировки с выбором документа](/content/0_docs/3_medkabinet/images/06_polzovateli/02-razblokirovka-s-dokumentom-okno.png)
 
 ---
 
@@ -31,10 +31,10 @@
 3.  В открывшемся окне вписать причину разблокировки в поле «Комментарий разблокировки».
 4.  Нажать «Разблокировать».
 
-![Окно разблокировки без документа](/content/images/medkabinet/image51.png)
+![Окно разблокировки без документа](/content/0_docs/3_medkabinet/images/06_polzovateli/03-razblokirovka-bez-dokumenta-okno.png)
 
 Указанная причина будет отображаться в разделе «Блокировки» при наведении указателя на символ комментария.
 
-![image54.png](/content/images/medkabinet/image54.png)
+![Комментарий к блокировке в списке](/content/0_docs/3_medkabinet/images/06_polzovateli/04-blokirovki-kommentarij.png)
 
 

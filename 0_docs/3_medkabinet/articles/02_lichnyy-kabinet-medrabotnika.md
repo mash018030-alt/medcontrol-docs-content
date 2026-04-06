@@ -11,7 +11,7 @@
 
 Раздел «Медкабинет» предназначен для анализа и обработки данных, полученных в ходе осмотров, а также вынесения заключений по результатам этих осмотров.
 
-![image43.png](/content/images/medkabinet/image43.png)
+![Раздел «Медкабинет»: обзор интерфейса](/content/0_docs/3_medkabinet/images/02_lichnyy-kabinet-medrabotnika/01-razdel-medkabinet-interfejs.png)
 
 ## Главная страница. Выбор сертификата УКЭП
 
@@ -30,12 +30,12 @@
 5.  Статусная панель – визуализация состояния осмотров с цветовой индикацией:
 
 <div class="docs-indicators-legend">
-  <span class="docs-indicators-legend-item"><img src="/content/images/medkabinet/image29.png" alt="" class="docs-inline-icon" /> — скорость закрытия осмотров больше скорости их назначения;</span>
-  <span class="docs-indicators-legend-item"><img src="/content/images/medkabinet/image11.png" alt="" class="docs-inline-icon" /> — скорость закрытия осмотров идентична скорости их назначения;</span>
-  <span class="docs-indicators-legend-item"><img src="/content/images/medkabinet/image7.png" alt="" class="docs-inline-icon" /> — скорость закрытия осмотров меньше скорости их назначения.</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/3_medkabinet/images/02_lichnyy-kabinet-medrabotnika/icon-status-zakrytie-bystree-naznacheniya.png" alt="" class="docs-inline-icon" /> — скорость закрытия осмотров больше скорости их назначения;</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/3_medkabinet/images/02_lichnyy-kabinet-medrabotnika/icon-status-zakrytie-ravno-naznacheniyu.png" alt="" class="docs-inline-icon" /> — скорость закрытия осмотров идентична скорости их назначения;</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/3_medkabinet/images/02_lichnyy-kabinet-medrabotnika/icon-status-zakrytie-medlennee-naznacheniya.png" alt="" class="docs-inline-icon" /> — скорость закрытия осмотров меньше скорости их назначения.</span>
 </div>
 
-![image39.png](/content/images/medkabinet/image39.png)
+![Статусная панель и очередь осмотров](/content/0_docs/3_medkabinet/images/02_lichnyy-kabinet-medrabotnika/02-statusnaya-panel-osmotry.png)
 
 Статистика обновляется в реальном времени.
 
@@ -47,7 +47,7 @@
 
 После выполнения этих шагов отобразится выбранный сертификат.
 
-![image37.png](/content/images/medkabinet/image37.png)
+![Выбранный сертификат УКЭП](/content/0_docs/3_medkabinet/images/02_lichnyy-kabinet-medrabotnika/03-vybrannyj-sertifikat-ukep.png)
 
 ---
 
@@ -57,10 +57,10 @@
 
 1.  Выбрать планируемую длительность смены, которая будет учитываться при формировании статистики ключевых показателей медицинского работника.
 
-![image36.png](/content/images/medkabinet/image36.png)
+![Выбор длительности смены](/content/0_docs/3_medkabinet/images/02_lichnyy-kabinet-medrabotnika/04-vybor-dlitelnosti-sm.png)
 
 2.  Нажать «Начать смену». После этого АРМ переходит в режим ожидания назначения осмотра.
 
-![image10.png](/content/images/medkabinet/image10.png)
+![Кнопка «Начать смену»](/content/0_docs/3_medkabinet/images/02_lichnyy-kabinet-medrabotnika/05-nachat-smenu.png)
 
-Назначение осмотров и работа с карточками осмотра описаны в статье [Работа с осмотром](/0_docs/3_medkabinet/rabota-v-medkabinete); вынесение заключения — в статье [Вынесение заключения по осмотру](/0_docs/3_medkabinet/vynesenie-zaklyucheniya-po-osmotru).
+Назначение осмотров и работа с карточками осмотра описаны в статье [Работа с осмотром](/0_docs/3_medkabinet/articles/03_rabota-v-medkabinete); вынесение заключения — в статье [Вынесение заключения по осмотру](/0_docs/3_medkabinet/articles/04_vynesenie-zaklyucheniya-po-osmotru).

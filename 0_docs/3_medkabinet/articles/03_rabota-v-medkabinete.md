@@ -4,11 +4,11 @@
 
 После нажатия кнопки «Начать смену» и выхода в линию медработнику автоматически назначаются осмотры из очереди. Порядок назначения – от более поздних к более ранним. Медработнику нужно оценить назначенный осмотр, нажав на кнопку «Взять в работу».
 
-![image40.png](/content/images/medkabinet/image40.png)
+![Назначенный осмотр: «Взять в работу»](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/01-naznachen-osmotr-vzyat-v-rabotu.png)
 
 Кнопки «Пауза» на странице ожидания осмотра и «Отказаться и встать на паузу» в назначенном осмотре приостанавливают рабочую смену. В этом случае медработник исключается из очереди и не получает осмотры, а назначенный осмотр возвращается в очередь.
 
-![image15.png](/content/images/medkabinet/image15.png)
+![Пауза и отказ от осмотра](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/02-pauza-i-otkazatsya-ot-osmotra.png)
 
 ---
 
@@ -26,16 +26,16 @@
 6.  Дата и время завершения осмотра на ПАК.
 7.  Продолжительность прохождения работником осмотра на ПАК.
 
-![image55.png](/content/images/medkabinet/image55.png)
+![Первичный анализ: данные осмотра](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/03-pervichnyj-analiz-kartochka-osmotra.png)
 
 Вид осмотра также обозначен графически на картинке:
 
 <div class="docs-indicators-legend">
-  <span class="docs-indicators-legend-item"><img src="/content/images/medkabinet/image31.png" alt="" class="docs-inline-icon" /> — предрейсовый;</span>
-  <span class="docs-indicators-legend-item"><img src="/content/images/medkabinet/image47.png" alt="" class="docs-inline-icon" /> — послерейсовый;</span>
-  <span class="docs-indicators-legend-item"><img src="/content/images/medkabinet/image59.png" alt="" class="docs-inline-icon" /> — предсменный;</span>
-  <span class="docs-indicators-legend-item"><img src="/content/images/medkabinet/image9.png" alt="" class="docs-inline-icon" /> — послесменный;</span>
-  <span class="docs-indicators-legend-item"><img src="/content/images/medkabinet/image23.png" alt="" class="docs-inline-icon" /> — в течение рабочего дня (смены).</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/icon-tip-osmotra-prerejsovyy.png" alt="" class="docs-inline-icon" /> — предрейсовый;</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/icon-tip-osmotra-poslerejsovyy.png" alt="" class="docs-inline-icon" /> — послерейсовый;</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/icon-tip-osmotra-predsmennyy.png" alt="" class="docs-inline-icon" /> — предсменный;</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/icon-tip-osmotra-poslesmennyy.png" alt="" class="docs-inline-icon" /> — послесменный;</span>
+  <span class="docs-indicators-legend-item"><img src="/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/icon-tip-osmotra-v-techenie-dnya.png" alt="" class="docs-inline-icon" /> — в течение рабочего дня (смены).</span>
 </div>
 
 Данные о работнике:
@@ -43,14 +43,14 @@
 1.  ФИО и возраст.
 2.  Пол.
 3.  Название организации, в которой трудоустроен работник.
-![image35.png](/content/images/medkabinet/image35.png)
+![Данные о работнике в карточке осмотра](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/04-blok-dannye-o-rabotnike.png)
 
 Медицинские данные:
 
 1.  Жалобы работника на состояние здоровья (при наличии).
 2.  Медицинские показатели, полученные при осмотре – АД, ЧСС, температура тела, наличие паров этанола в выдыхаемом воздухе.
 
-![image30.png](/content/images/medkabinet/image30.png)
+![Медицинские данные осмотра](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/05-blok-medicinskie-dannye.png)
 
 ---
 
@@ -63,7 +63,7 @@
 1.  Фотография.
 2.  ФИО, организация и роль пользователя.
 
-![image22.png](/content/images/medkabinet/image22.png)
+![Карточка осмотра: фото и ФИО](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/06-kartochka-osmotra-foto-i-fio.png)
 
 Данные об осмотре:
 
@@ -71,7 +71,7 @@
 2.  Данные микроклимата окружающей среды, зарегистрированные в момент проведения осмотра (температура, влажность, освещенность), и индикатор целостности ПАК.
 3.  Видеозапись осмотра с возможностью повернуть изображение.
 
-![image60.png](/content/images/medkabinet/image60.png)
+![Карточка осмотра: видео и микроклимат](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/07-kartochka-video-i-mikroklimat.png)
 
 Медицинские данные:
 
@@ -80,7 +80,7 @@
 3.  Жалобы работника на состояние здоровья (при наличии).
 4.  Медицинская документация по работнику.
 5.  История осмотров, пройденных работником ранее.
-![image16.png](/content/images/medkabinet/image16.png)
+![Карточка осмотра: показатели и документация](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/08-kartochka-pokazateli-i-dokumentaciya.png)
 
 Кнопки работы с системой:
 
@@ -92,7 +92,7 @@
     2.  «Валидировать» – послерейсовом/послесменном виде осмотра и осмотре в течение дня (смены).
 4.  Кнопка для добавления 20 сек ко времени, отведенному по умолчанию на принятие решения по осмотру.
 
-![image14.png](/content/images/medkabinet/image14.png)
+![Карточка осмотра: кнопки заключения и управления](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/09-kartochka-knopki-dopustit-ne-dopustit.png)
 
 ---
 
@@ -105,16 +105,16 @@
 
 Финальное заключение медработник выносит по результатам последней пройденной попытки.
 
-- назначенная медработнику серия осмотров будет иметь маркер «Серия». <img src="/content/images/medkabinet/image48.png" alt="" class="docs-inline-icon" />
-- при неявке работника на повторный осмотр будет отображаться маркер «Неявка». <img src="/content/images/medkabinet/image65.png" alt="" class="docs-inline-icon" />
+- назначенная медработнику серия осмотров будет иметь маркер «Серия». <img src="/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/icon-marker-seriya-osmotrov.png" alt="" class="docs-inline-icon" />
+- при неявке работника на повторный осмотр будет отображаться маркер «Неявка». <img src="/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/icon-marker-nejavka.png" alt="" class="docs-inline-icon" />
 
 В карточке назначенной серии осмотров отображаются:
 
 1.  Текущая (открытая) попытка – выделяется цветом и размером текста. Все данные в карточке осмотра отображаются в соответствии с результатами осмотра активной попытки.
 2.  Кнопка для перехода между попытками – для просмотра предыдущих или следующих исследований.
 3.  Кнопка «Добавить замечания» – позволяет внести комментарии к текущей (открытой) попытке.
-![image44.png](/content/images/medkabinet/image44.png)
+![Серия осмотров: переключение попыток](/content/0_docs/3_medkabinet/images/03_rabota-v-medkabinete/10-seriya-osmotrov-kartochka-popitki.png)
 
 ---
 
-Порядок и интерфейс вынесения заключения по осмотру описаны в статье [Вынесение заключения по осмотру](/0_docs/3_medkabinet/vynesenie-zaklyucheniya-po-osmotru).
+Порядок и интерфейс вынесения заключения по осмотру описаны в статье [Вынесение заключения по осмотру](/0_docs/3_medkabinet/articles/04_vynesenie-zaklyucheniya-po-osmotru).
