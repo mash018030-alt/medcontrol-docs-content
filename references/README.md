@@ -10,7 +10,7 @@
 
 - **Файл:** `1. Общее. MC Cloud. Руководство пользователя.pdf`
 - **Назначение:** эталон для сверки с текстами статей в **`0_docs/1_obshee/`** (в репозитории контента).
-- **Снимок структуры контента и связи с разводящей:** `OBSHEE-CONTENT-SNAPSHOT.md` (пара к снимку UI в репозитории движка: `medcontrol-docs-platform/referenses/OBSHEE-LANDING-SNAPSHOT.md`).
+- **Снимок структуры контента и связи с разводящей:** `OBSHEE-CONTENT-SNAPSHOT.md` (пара к снимку UI в репозитории движка: **`docs-app/OBSHEE-LANDING-SNAPSHOT.md`**).
 
 ## Где лежит папка
 
