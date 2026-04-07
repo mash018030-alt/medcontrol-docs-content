@@ -33,7 +33,7 @@
 - **`manuals/admin_extract/`** — экспорт администрирования: `2..MCCloud..html`, **`images/`**.
 - **`manuals/medkabinet-extract/`** — экспорт «Медкабинет»: `3..MCCloud..html`, **`images/`**.
 - **`manuals/4-rukovodstvo/`** — руководство медадминистратора: `4..MCCloud..html`, **`images/`**.
-- **`Colors/`** — палитра и токены цвета (`color-palette.md`, `light.md`, `sinii.md`, `temno_sinii.md`, `help-gradient.md`).
+- **`Colors/`** — палитра и токены цвета (`color-palette.md`, `accent-blue.md`, `dark-blue.md`, `light.md`, `help-gradient.md`).
 
 ## Скрипт конвертации HTML → Markdown
 
