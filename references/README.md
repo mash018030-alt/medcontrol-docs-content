@@ -17,7 +17,7 @@
 **Репозиторий:** `medcontrol-docs-content`, корень — рядом с **`0_docs/`**, **`1_news/`** и т.д.  
 В движке при submodule это **`docs-app/public/content/references/`**.
 
-Краткая карта для людей и для ассистента (дополнительно к **`brief.md`** и **`CONTEXT.md`** в репозитории движка).
+Краткая карта для людей и для ассистента (дополнительно к **`brief.md`**, **`CONTEXT.md`** и при настройке Cursor — **`CURSOR-AGENT-SETTINGS.md`** в репозитории движка).
 
 ## Корень `references/`
 
