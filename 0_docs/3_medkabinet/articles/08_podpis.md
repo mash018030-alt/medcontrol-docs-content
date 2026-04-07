@@ -2,7 +2,7 @@
 
 Данный раздел находится в личном кабинете медработника в правом верхнем углу.
 
-![Раздел «Подпись» в личном кабинете](/content/0_docs/3_medkabinet/images/08_podpis/01-razdel-podpis-menyu.png)
+![Раздел «Подпись» в личном кабинете](/content/0_docs/3_medkabinet/images/08_podpis/01_razdel_podpis_menyu.png)
 
 В разделе с подписями доступны:
 
@@ -13,8 +13,8 @@
 <input type="radio" name="carousel-podpis" id="carousel-podpis-1" checked>
 <input type="radio" name="carousel-podpis" id="carousel-podpis-2">
 <div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/3_medkabinet/images/08_podpis/02-vkladka-podpisi-sertifikat.png" alt="Данные и выбор сертификата УКЭП" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/3_medkabinet/images/08_podpis/03-podskazki-oshibok-podpisi.png" alt="Контекстные подсказки при ошибках подписи" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/3_medkabinet/images/08_podpis/02_vkladka_podpisi_sertifikat.png" alt="Данные и выбор сертификата УКЭП" /></div>
+<div class="docs-carousel-slide"><img src="/content/0_docs/3_medkabinet/images/08_podpis/03_podskazki_oshibok_podpisi.png" alt="Контекстные подсказки при ошибках подписи" /></div>
 </div>
 <div class="docs-carousel-nav">
 <span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>

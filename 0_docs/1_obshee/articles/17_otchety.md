@@ -29,7 +29,7 @@
 
 Как выглядит:
 
-![01-alkotestirovanie.png](/content/0_docs/1_obshee/images/17_otchety/01-alkotestirovanie.png)
+![01_alkotestirovanie.png](/content/0_docs/1_obshee/images/17_otchety/01_alkotestirovanie.png)
 
 ---
 
@@ -41,11 +41,11 @@
 
 - сводная таблица;
 
-![02-svodnaya-tablitsa.png](/content/0_docs/1_obshee/images/17_otchety/02-svodnaya-tablitsa.png)
+![02_svodnaya_tablitsa.png](/content/0_docs/1_obshee/images/17_otchety/02_svodnaya_tablitsa.png)
 
 - детализация.
 
-![03-detalizatsiya.png](/content/0_docs/1_obshee/images/17_otchety/03-detalizatsiya.png)
+![03_detalizatsiya.png](/content/0_docs/1_obshee/images/17_otchety/03_detalizatsiya.png)
 
 ---
 
@@ -59,35 +59,35 @@
 
 - работники старше 55 лет;
 
-![04-rabotniki-starshe-55-let.png](/content/0_docs/1_obshee/images/17_otchety/04-rabotniki-starshe-55-let.png)
+![04_rabotniki_starshe_55_let.png](/content/0_docs/1_obshee/images/17_otchety/04_rabotniki_starshe_55_let.png)
 
 - Д-учёт;
 
-![05-d-uchyot.png](/content/0_docs/1_obshee/images/17_otchety/05-d-uchyot.png)
+![05_d_uchyot.png](/content/0_docs/1_obshee/images/17_otchety/05_d_uchyot.png)
 
 - риск развития нарушений сердечного ритма;
 
-![06-risk-razvitiya-narusheniy-serdechnogo-ritm.png](/content/0_docs/1_obshee/images/17_otchety/06-risk-razvitiya-narusheniy-serdechnogo-ritm.png)
+![06_risk_razvitiya_narusheniy_serdechnogo_ritm.png](/content/0_docs/1_obshee/images/17_otchety/06_risk_razvitiya_narusheniy_serdechnogo_ritm.png)
 
 - риск напряжения регуляторных систем;
 
-![07-risk-napryazheniya-regulyatornyh-sistem.png](/content/0_docs/1_obshee/images/17_otchety/07-risk-napryazheniya-regulyatornyh-sistem.png)
+![07_risk_napryazheniya_regulyatornyh_sistem.png](/content/0_docs/1_obshee/images/17_otchety/07_risk_napryazheniya_regulyatornyh_sistem.png)
 
 - употребление алкоголя:
 
-![08-upotreblenie-alkogolya.png](/content/0_docs/1_obshee/images/17_otchety/08-upotreblenie-alkogolya.png)
+![08_upotreblenie_alkogolya.png](/content/0_docs/1_obshee/images/17_otchety/08_upotreblenie_alkogolya.png)
 
 - риск развития сердечно-сосудистых заболеваний;
 
-![09-risk-razvitiya-serdechno-sosudistyh-zabole.png](/content/0_docs/1_obshee/images/17_otchety/09-risk-razvitiya-serdechno-sosudistyh-zabole.png)
+![09_risk_razvitiya_serdechno_sosudistyh_zabole.png](/content/0_docs/1_obshee/images/17_otchety/09_risk_razvitiya_serdechno_sosudistyh_zabole.png)
 
 - риск развития сердечно-сосудистых осложнений;
 
-![10-risk-razvitiya-serdechno-sosudistyh-oslozh.png](/content/0_docs/1_obshee/images/17_otchety/10-risk-razvitiya-serdechno-sosudistyh-oslozh.png)
+![10_risk_razvitiya_serdechno_sosudistyh_oslozh.png](/content/0_docs/1_obshee/images/17_otchety/10_risk_razvitiya_serdechno_sosudistyh_oslozh.png)
 
 - общая группа рисков.
 
-![11-obschaya-gruppa-riskov.png](/content/0_docs/1_obshee/images/17_otchety/11-obschaya-gruppa-riskov.png)
+![11_obschaya_gruppa_riskov.png](/content/0_docs/1_obshee/images/17_otchety/11_obschaya_gruppa_riskov.png)
 
 ### Журнал регистрации отстраненных работников
 
@@ -97,7 +97,7 @@
 
 Как выглядит:
 
-![12-zhurnal-registratsii-otstranennyh-rabotnik.png](/content/0_docs/1_obshee/images/17_otchety/12-zhurnal-registratsii-otstranennyh-rabotnik.png)
+![12_zhurnal_registratsii_otstranennyh_rabotnik.png](/content/0_docs/1_obshee/images/17_otchety/12_zhurnal_registratsii_otstranennyh_rabotnik.png)
 
 ### Журнал учета выданных справок в ЛПУ
 
@@ -105,7 +105,7 @@
 
 Как выглядит:
 
-![13-zhurnal-ucheta-vydannyh-spravok-v-lpu.png](/content/0_docs/1_obshee/images/17_otchety/13-zhurnal-ucheta-vydannyh-spravok-v-lpu.png)
+![13_zhurnal_ucheta_vydannyh_spravok_v_lpu.png](/content/0_docs/1_obshee/images/17_otchety/13_zhurnal_ucheta_vydannyh_spravok_v_lpu.png)
 
 ### Журнал учета выданных направлений на мед.освидетельствование
 
@@ -113,7 +113,7 @@
 
 Как выглядит:
 
-![14-zhurnal-ucheta-vydannyh-napravleniy-na-med.png](/content/0_docs/1_obshee/images/17_otchety/14-zhurnal-ucheta-vydannyh-napravleniy-na-med.png)
+![14_zhurnal_ucheta_vydannyh_napravleniy_na_med.png](/content/0_docs/1_obshee/images/17_otchety/14_zhurnal_ucheta_vydannyh_napravleniy_na_med.png)
 
 ---
 
@@ -125,7 +125,7 @@
 
 Как выглядит:
 
-![15-statistika-obrabotki-osmotrov.png](/content/0_docs/1_obshee/images/17_otchety/15-statistika-obrabotki-osmotrov.png)
+![15_statistika_obrabotki_osmotrov.png](/content/0_docs/1_obshee/images/17_otchety/15_statistika_obrabotki_osmotrov.png)
 
 ### Статистика смен
 
@@ -135,7 +135,7 @@
 
 Как выглядит:
 
-![16-statistika-smen.png](/content/0_docs/1_obshee/images/17_otchety/16-statistika-smen.png)
+![16_statistika_smen.png](/content/0_docs/1_obshee/images/17_otchety/16_statistika_smen.png)
 
 ### Длительность обработки осмотров
 
@@ -148,4 +148,4 @@
 
 Как выглядит:
 
-![17-neuspeshnye-osmotry.png](/content/0_docs/1_obshee/images/17_otchety/17-neuspeshnye-osmotry.png)
+![17_neuspeshnye_osmotry.png](/content/0_docs/1_obshee/images/17_otchety/17_neuspeshnye_osmotry.png)

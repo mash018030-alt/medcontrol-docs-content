@@ -12,7 +12,7 @@
 4. Дате.
 5. Расширенному фильтру.
 
-![01-rasshirennomu-fil-tru.png](/content/0_docs/1_obshee/images/16_dokumenty/01-rasshirennomu-fil-tru.png)
+![01_rasshirennomu_fil_tru.png](/content/0_docs/1_obshee/images/16_dokumenty/01_rasshirennomu_fil_tru.png)
 
 В фильтре по дате можно указать:
 
@@ -20,7 +20,7 @@
 2. Даты для произвольного периода поиска.
 3. Время начала и окончания фильтрации.
 
-![02-vremya-nachala-i-okonchaniya-fil-tratsii.png](/content/0_docs/1_obshee/images/16_dokumenty/02-vremya-nachala-i-okonchaniya-fil-tratsii.png)
+![02_vremya_nachala_i_okonchaniya_fil_tratsii.png](/content/0_docs/1_obshee/images/16_dokumenty/02_vremya_nachala_i_okonchaniya_fil_tratsii.png)
 
 Через расширенный фильтр доступен поиск документа по:
 
@@ -29,7 +29,7 @@
 3. Организации работника, в карточку которого загружен документ.
 4. Медработнику, загрузившему/обработавшему документ.
 
-![03-medrabotniku-zagruzivshemu-obrabotavshemu.png](/content/0_docs/1_obshee/images/16_dokumenty/03-medrabotniku-zagruzivshemu-obrabotavshemu.png)
+![03_medrabotniku_zagruzivshemu_obrabotavshemu.png](/content/0_docs/1_obshee/images/16_dokumenty/03_medrabotniku_zagruzivshemu_obrabotavshemu.png)
 
 В общем списке документов в разделе отображаются:
 
@@ -41,7 +41,7 @@
 6. ФИО работника, в карточку которого загружен документ.
 7. Организация работника.
 
-![04-organizatsiya-rabotnika.png](/content/0_docs/1_obshee/images/16_dokumenty/04-organizatsiya-rabotnika.png)
+![04_organizatsiya_rabotnika.png](/content/0_docs/1_obshee/images/16_dokumenty/04_organizatsiya_rabotnika.png)
 
 ---
 
@@ -57,7 +57,7 @@
 4. Информация об осмотре, по которому сформирован документ (для исходящих) или по работнику (для входящих). При клике на мини-карточку осмотра внутри исходящего документа откроется модальное окно с подробной информацией.
 5. Для исходящих документов – другие документы по осмотру (при наличии).
 
-![05-dlya-ishodyaschih-dokumentov-drugie-dokume.png](/content/0_docs/1_obshee/images/16_dokumenty/05-dlya-ishodyaschih-dokumentov-drugie-dokume.png)
+![05_dlya_ishodyaschih_dokumentov_drugie_dokume.png](/content/0_docs/1_obshee/images/16_dokumenty/05_dlya_ishodyaschih_dokumentov_drugie_dokume.png)
 
 1. Статус документа.
 2. Тип документа.
@@ -66,14 +66,14 @@
 5. ФИО медработника, подписавшего исходящий документ.
 6. Кнопка для скачивания документа.
 
-![06-knopka-dlya-skachivaniya-dokumenta.png](/content/0_docs/1_obshee/images/16_dokumenty/06-knopka-dlya-skachivaniya-dokumenta.png)
+![06_knopka_dlya_skachivaniya_dokumenta.png](/content/0_docs/1_obshee/images/16_dokumenty/06_knopka_dlya_skachivaniya_dokumenta.png)
 
 7. Окно, где можно посмотреть документ, увеличить его, открыть в отдельном окне и скачать.
 
-![07-okno-gde-mozhno-posmotret-dokument-uvelich.png](/content/0_docs/1_obshee/images/16_dokumenty/07-okno-gde-mozhno-posmotret-dokument-uvelich.png)
+![07_okno_gde_mozhno_posmotret_dokument_uvelich.png](/content/0_docs/1_obshee/images/16_dokumenty/07_okno_gde_mozhno_posmotret_dokument_uvelich.png)
 
 ### История обработки
 
 На вкладке «История обработки» отображается вся информация по документу: кто и когда его добавил, изменил, утвердил или отправил на подпись. Также показано, использовался ли входящий документ для снятия блокировки с пользователя.
 
-![08-istoriya-obrabotki.png](/content/0_docs/1_obshee/images/16_dokumenty/08-istoriya-obrabotki.png)
+![08_istoriya_obrabotki.png](/content/0_docs/1_obshee/images/16_dokumenty/08_istoriya_obrabotki.png)

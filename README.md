@@ -2,30 +2,30 @@
 
 Репозиторий со статьями (Markdown), изображениями и служебными файлами для сайта документации MedControl.
 
-Целевое дерево контента описано в **[repo-docs/REPO-STRUCTURE.md](repo-docs/REPO-STRUCTURE.md)** (префикс `docs/`, `news/`, словарь имён). Пока перестройка не завершена, корень может ещё совпадать со старым видом `public/content/` в движке.
+Целевое дерево контента описано в **[repo_docs/REPO_STRUCTURE.md](repo_docs/REPO_STRUCTURE.md)** (префикс `docs/`, `news/`, словарь имён). Пока перестройка не завершена, корень может ещё совпадать со старым видом `public/content/` в движке.
 
-## О репозитории (`repo-docs/`)
+## О репозитории (`repo_docs/`)
 
-Папка **`repo-docs/`** — не пользовательская документация MedControl (она в **`0_docs/`** и т.д.), а заметки **про устройство этого Git-репозитория** и порядок миграции структуры.
+Папка **`repo_docs/`** — не пользовательская документация MedControl (она в **`0_docs/`** и т.д.), а заметки **про устройство этого Git-репозитория** и порядок миграции структуры.
 
 | Файл | Назначение |
 |------|------------|
-| [repo-docs/REPO-STRUCTURE.md](repo-docs/REPO-STRUCTURE.md) | **Словарь имён, этапы 1–3, с чего начать** (каркас `docs/`/`news/`, затем раздел «Администрирование» и остальные по шаблону) |
+| [repo_docs/REPO_STRUCTURE.md](repo_docs/REPO_STRUCTURE.md) | **Словарь имён, этапы 1–3, с чего начать** (каркас `docs/`/`news/`, затем раздел «Администрирование» и остальные по шаблону) |
 | [references/README.md](references/README.md) | Референсы и вспомогательные материалы (не страницы сайта) |
-| `images/dashboards/*.png` (кроме вложенных папок) | Иконки карточек разделов на главной «Документация» (`admin.png`, `glossary.png`, `main.png`, `medadmin.png`, `medcab.png`); в движке `/content/images/dashboards/<файл>.png` (см. `docsDashboardSections.js`). Рядом лежат превью плиток `Obshee/`, `admin/` и макеты — всё кандидат на удаление при упразднении дашборда |
-| `images/logo/logo-3.png` | Логотип платформы; в движке: `/content/images/logo/logo-3.png` |
+| `images/dashboards/0_main/*.png` | Иконки карточек разделов на главном дашборде «Документация» (`admin.png`, `glossary.png`, `main.png`, `medadmin.png`, `medcab.png`); в движке путь вида `/content/images/dashboards/0_main/<файл>.png` (обновить `docsDashboardSections.js` или аналог, если раньше указывали корень `dashboards/`). Превью плиток по разделам — в `images/dashboards/Obshee/`, `images/dashboards/admin/` |
+| `images/logo/logo_3.png` | Логотип платформы; в движке: `/content/images/logo/logo_3.png` |
 
 Имеет смысл **не дублировать** эти материалы в репозитории движка: держите их здесь и при необходимости дайте в движке одну ссылку на этот репозиторий.
 
 ## Связь с движком
 
-Пока движок (`medcontrol-docs-platform` или аналог) может использовать свою копию `public/content/`. Источник правки контента для долгосрочной работы — **этот** репозиторий. Подключение к движку: submodule в `docs-app/public/content` или копирование контента в CI перед `npm ci` / `build` (детали — в репозитории движка и в `repo-docs/REPO-STRUCTURE.md`).
+Пока движок (`medcontrol-docs-platform` или аналог) может использовать свою копию `public/content/`. Источник правки контента для долгосрочной работы — **этот** репозиторий. Подключение к движку: submodule в `docs-app/public/content` или копирование контента в CI перед `npm ci` / `build` (детали — в репозитории движка и в `repo_docs/REPO_STRUCTURE.md`).
 
 После настройки submodule/CI дублирующие файлы контента в репозитории движка можно удалить, оставив только механизм подстановки и заглушку при необходимости.
 
 ## Базовая линия «до миграции»
 
-Снимок проверки внутренних ссылок и списка путей из `flatArticles` на момент разделения репозиториев лежит в **репозитории движка**: **`archive/migration/baseline-links-before-migration.txt`** (зачем хранится — **`archive/migration/README.md`**). Дубликат в `repo-docs/` не обязателен.
+Снимок проверки внутренних ссылок и списка путей из `flatArticles` на момент разделения репозиториев лежит в **репозитории движка**: **`archive/migration/baseline-links-before-migration.txt`** (зачем хранится — **`archive/migration/README.md`**). Дубликат в `repo_docs/` не обязателен.
 
 ## Локальный Git и GitHub
 

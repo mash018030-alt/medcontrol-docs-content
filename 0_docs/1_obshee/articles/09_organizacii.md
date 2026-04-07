@@ -14,7 +14,7 @@
 8.  Количество пользователей, зарегистрированных в организации.
 9.  Количество ПАК, привязанных к организации.
 
-![01-kolichestvo-pak-privyazannyh-k-organizatsi.png](/content/0_docs/1_obshee/images/09_organizacii/01-kolichestvo-pak-privyazannyh-k-organizatsi.png)
+![01_kolichestvo_pak_privyazannyh_k_organizatsi.png](/content/0_docs/1_obshee/images/09_organizacii/01_kolichestvo_pak_privyazannyh_k_organizatsi.png)
 
 10.  Платёжный профиль организации.
 11.  Профиль медобслуживания.
@@ -22,11 +22,11 @@
 13.  Обозначение типа организации – компания/ИП/группа/подразделение.
 14.  Метка профиля точки выпуска.
 
-![02-metka-profilya-tochki-vypuska.png](/content/0_docs/1_obshee/images/09_organizacii/02-metka-profilya-tochki-vypuska.png)
+![02_metka_profilya_tochki_vypuska.png](/content/0_docs/1_obshee/images/09_organizacii/02_metka_profilya_tochki_vypuska.png)
 
 ## Поиск организаций
 
-![03-metka-profilya-tochki-vypuska.png](/content/0_docs/1_obshee/images/09_organizacii/03-metka-profilya-tochki-vypuska.png)
+![03_metka_profilya_tochki_vypuska.png](/content/0_docs/1_obshee/images/09_organizacii/03_metka_profilya_tochki_vypuska.png)
 
 Через расширенный фильтр можно отсортировать организации по:
 
@@ -42,18 +42,18 @@
 6.  платежному признаку – является ли организация контрагентом;
 7.  организации-контрагенту, оплачивающей осмотры.
 
-![04-organizatsii-kontragentu-oplachivayuschey.png](/content/0_docs/1_obshee/images/09_organizacii/04-organizatsii-kontragentu-oplachivayuschey.png)
+![04_organizatsii_kontragentu_oplachivayuschey.png](/content/0_docs/1_obshee/images/09_organizacii/04_organizatsii_kontragentu_oplachivayuschey.png)
 
 ---
 
 ## Тестовые организации
 
-Тестовая организация может создаваться для тестирования ПАК и оценки работы платформы MedControl. Техподдержка регистрирует тестовую организацию, в которой проводятся пилотные, [тестовые осмотры](/0_docs/1_obshee/articles/04_vidy-osmotrov#тестовый-осмотр) – это позволяет клиенту оценить систему в действии.
+Тестовая организация может создаваться для тестирования ПАК и оценки работы платформы MedControl. Техподдержка регистрирует тестовую организацию, в которой проводятся пилотные, [тестовые осмотры](/0_docs/1_obshee/articles/04_vidy_osmotrov#тестовый-осмотр) – это позволяет клиенту оценить систему в действии.
 
 Все объекты, созданные в тестовой организации (пользователи, ПАК, осмотры, дочерние организации), являются тестовыми и выделяются меткой.
 
-![05-testovye-organizatsii.png](/content/0_docs/1_obshee/images/09_organizacii/05-testovye-organizatsii.png)
+![05_testovye_organizatsii.png](/content/0_docs/1_obshee/images/09_organizacii/05_testovye_organizatsii.png)
 
 При поиске в АРМ они отображаются при включённом параметре «Тестовые».
 
-![06-testovye-organizatsii.png](/content/0_docs/1_obshee/images/09_organizacii/06-testovye-organizatsii.png)
+![06_testovye_organizatsii.png](/content/0_docs/1_obshee/images/09_organizacii/06_testovye_organizatsii.png)

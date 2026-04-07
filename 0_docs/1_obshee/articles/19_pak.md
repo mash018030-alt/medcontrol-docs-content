@@ -11,7 +11,7 @@
 3.  Признаку «Тестовые» – для поиска ПАК, созданных в тестовой организации.
 4.  Организации, статусу подключения и типу ПАК – через расширенный фильтр.
 
-![01-organizatsii-statusu-podklyucheniya-i-tipu.png](/content/0_docs/1_obshee/images/19_pak/01-organizatsii-statusu-podklyucheniya-i-tipu.png)
+![01_organizatsii_statusu_podklyucheniya_i_tipu.png](/content/0_docs/1_obshee/images/19_pak/01_organizatsii_statusu_podklyucheniya_i_tipu.png)
 
 В разделе со списком ПАК отображаются:
 
@@ -21,7 +21,7 @@
 4.  Статус – подключен/отключен.
 5.  Дата создания ПАК в АРМ.
 
-![02-data-sozdaniya-pak-v-arm.png](/content/0_docs/1_obshee/images/19_pak/02-data-sozdaniya-pak-v-arm.png)
+![02_data_sozdaniya_pak_v_arm.png](/content/0_docs/1_obshee/images/19_pak/02_data_sozdaniya_pak_v_arm.png)
 
 ---
 
@@ -31,7 +31,7 @@
 
 Наверху отображается организация, в которой ПАК зарегистрирован, визуальное отображение типа ПАК – настольный/мобильный.
 
-![03-kartochka-pak.png](/content/0_docs/1_obshee/images/19_pak/03-kartochka-pak.png)
+![03_kartochka_pak.png](/content/0_docs/1_obshee/images/19_pak/03_kartochka_pak.png)
 
 Ниже находятся 3 вкладки – информация, подключенные устройства и журналы.
 
@@ -39,7 +39,7 @@
 
 Здесь отображаются основные данные, данные о поверке и прошивка ПАК.
 
-![04-informatsiya.png](/content/0_docs/1_obshee/images/19_pak/04-informatsiya.png)
+![04_informatsiya.png](/content/0_docs/1_obshee/images/19_pak/04_informatsiya.png)
 
 ---
 
@@ -47,7 +47,7 @@
 
 Здесь показаны технические данные о подключенных к ПАК устройствах – камера, принтер, периферийный хаб и пр.
 
-![05-podklyuchennye-ustroystva.png](/content/0_docs/1_obshee/images/19_pak/05-podklyuchennye-ustroystva.png)
+![05_podklyuchennye_ustroystva.png](/content/0_docs/1_obshee/images/19_pak/05_podklyuchennye_ustroystva.png)
 
 ---
 
@@ -55,7 +55,7 @@
 
 В «Журнале» можно экспортировать логи работы и отчёты ошибок ПАК, чтобы подробно изучить информацию о работе устройства и при необходимости отправить её сотрудникам технической поддержки.
 
-![06-zhurnaly.png](/content/0_docs/1_obshee/images/19_pak/06-zhurnaly.png)
+![06_zhurnaly.png](/content/0_docs/1_obshee/images/19_pak/06_zhurnaly.png)
 
 ### Действия с ПАК
 
@@ -66,4 +66,4 @@
 3.  Открыть список осмотров, пройденных на этом ПАК.
 4.  Перейти на сайт метрологии ФГИС АРШИН с информацией о поверке ПАК.
 
-![07-pereyti-na-sayt-metrologii-fgis-arshin-s-i.png](/content/0_docs/1_obshee/images/19_pak/07-pereyti-na-sayt-metrologii-fgis-arshin-s-i.png)
+![07_pereyti_na_sayt_metrologii_fgis_arshin_s_i.png](/content/0_docs/1_obshee/images/19_pak/07_pereyti_na_sayt_metrologii_fgis_arshin_s_i.png)
