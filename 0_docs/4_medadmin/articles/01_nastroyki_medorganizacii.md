@@ -53,21 +53,8 @@
 
 3. Нажать «Сохранить» и в случае наличия дочерних организаций – «Да, хочу внести изменения».
 
-<div class="docs-carousel">
-<input type="radio" name="carousel-nastroyka-3" id="carousel-nastroyka-3-1" checked>
-<input type="radio" name="carousel-nastroyka-3" id="carousel-nastroyka-3-2">
-<div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/4_medadmin/images/01_nastroyki_medorganizacii/05_dialog_otklyucheniya_assistenta.png" alt="Настройка: отключение ассистента" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/4_medadmin/images/01_nastroyki_medorganizacii/06_dialog_podtverzhdenie_dochernih_organizaciy.png" alt="Подтверждение: изменения повлияют на дочерние организации" /></div>
-</div>
-<div class="docs-carousel-nav">
-<label for="carousel-nastroyka-3-1" class="docs-carousel-arrow docs-carousel-arrow-prev" aria-label="Предыдущий слайд">‹</label>
-<span class="docs-carousel-dots">
-<label for="carousel-nastroyka-3-1" aria-label="Слайд 1">1</label>
-<label for="carousel-nastroyka-3-2" aria-label="Слайд 2">2</label>
-</span>
-<label for="carousel-nastroyka-3-2" class="docs-carousel-arrow docs-carousel-arrow-next" aria-label="Следующий слайд">›</label>
-</div>
-</div>
+    ![Настройка: отключение ассистента](/content/0_docs/4_medadmin/images/01_nastroyki_medorganizacii/05_dialog_otklyucheniya_assistenta.png)
+
+    ![Подтверждение: изменения повлияют на дочерние организации](/content/0_docs/4_medadmin/images/01_nastroyki_medorganizacii/06_dialog_podtverzhdenie_dochernih_organizaciy.png)
 
 Отменить заданные параметры можно с помощью кнопки «Сбросить настройки».

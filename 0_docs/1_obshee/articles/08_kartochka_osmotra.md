@@ -134,28 +134,14 @@
 
 1.  Нажать на кнопку печати.
 
+    ![Шаг 1: нажать на кнопку печати талона](/content/0_docs/1_obshee/images/08_kartochka_osmotra/14_shag_1_nazhat_na_knopku_pechati_talona.png)
+
 2.  Выбрать из списка необходимый ПАК – на котором был пройден осмотр (есть в карточке осмотра – вкладка «Талоны»).
+
+    ![Шаг 2: выбрать ПАК из списка (вкладка «Талоны» карточки осмотра)](/content/0_docs/1_obshee/images/08_kartochka_osmotra/15_shag_2_vybrat_pak_iz_spiska_vkladka_talony.png)
 
 3.  Нажать «Распечатать».
 
-<div class="docs-carousel docs-carousel--uniform-slides">
-<input type="radio" name="carousel-kartochka-talony" id="carousel-kartochka-talony-1" checked>
-<input type="radio" name="carousel-kartochka-talony" id="carousel-kartochka-talony-2">
-<input type="radio" name="carousel-kartochka-talony" id="carousel-kartochka-talony-3">
-<div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/08_kartochka_osmotra/14_shag_1_nazhat_na_knopku_pechati_talona.png" alt="Шаг 1: нажать на кнопку печати талона" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/08_kartochka_osmotra/15_shag_2_vybrat_pak_iz_spiska_vkladka_talony.png" alt="Шаг 2: выбрать ПАК из списка (вкладка «Талоны» карточки осмотра)" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/08_kartochka_osmotra/16_shag_3_nazhat_raspechatat.png" alt="Шаг 3: нажать «Распечатать»" /></div>
-</div>
-<div class="docs-carousel-nav">
-<span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>
-<span class="docs-carousel-dots">
-<label for="carousel-kartochka-talony-1" aria-label="Шаг 1: кнопка печати">1</label>
-<label for="carousel-kartochka-talony-2" aria-label="Шаг 2: выбор ПАК">2</label>
-<label for="carousel-kartochka-talony-3" aria-label="Шаг 3: Распечатать">3</label>
-</span>
-<span class="docs-carousel-arrow docs-carousel-arrow-next" role="button" tabIndex="0" aria-label="Следующий слайд">›</span>
-</div>
-</div>
+    ![Шаг 3: нажать «Распечатать»](/content/0_docs/1_obshee/images/08_kartochka_osmotra/16_shag_3_nazhat_raspechatat.png)
 
 ---

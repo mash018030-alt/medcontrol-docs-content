@@ -52,25 +52,13 @@
 Для создания дочерней организации в карточке родительского элемента нужно:
 
 1.  В карточке справа нажать «Добавить» и выбрать «Организацию».
+
+    ![Кнопка «Добавить» и выбор «Организацию» в карточке](/content/0_docs/2_admin/images/02_organizacii/09_kartochka_dobavit_organizaciyu.png)
+
 2.  Выбрать тип организации. Выбрать можно только типы, которые могут быть дочерними для родительского элемента.
+
+    ![Выбор типа организации](/content/0_docs/2_admin/images/02_organizacii/10_kartochka_vybor_tipa.png)
+
 3.  Далее откроется форма создания с действиями, аналогичными созданию организации через раздел «Организации». Единственное отличие – на этапе заполнения основных данных родительская организация будет выбрана автоматически.
 
-<div class="docs-carousel">
-<input type="radio" name="carousel-organizacii-kartochka" id="carousel-organizacii-kartochka-1" checked>
-<input type="radio" name="carousel-organizacii-kartochka" id="carousel-organizacii-kartochka-2">
-<input type="radio" name="carousel-organizacii-kartochka" id="carousel-organizacii-kartochka-3">
-<div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/2_admin/images/02_organizacii/09_kartochka_dobavit_organizaciyu.png" alt="Кнопка «Добавить» и выбор «Организацию» в карточке" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/2_admin/images/02_organizacii/10_kartochka_vybor_tipa.png" alt="Выбор типа организации" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/2_admin/images/02_organizacii/11_kartochka_forma_sozdaniya.png" alt="Форма создания организации" /></div>
-</div>
-<div class="docs-carousel-nav">
-<span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>
-<span class="docs-carousel-dots">
-<label for="carousel-organizacii-kartochka-1" aria-label="Слайд 1">1</label>
-<label for="carousel-organizacii-kartochka-2" aria-label="Слайд 2">2</label>
-<label for="carousel-organizacii-kartochka-3" aria-label="Слайд 3">3</label>
-</span>
-<span class="docs-carousel-arrow docs-carousel-arrow-next" role="button" tabIndex="0" aria-label="Следующий слайд">›</span>
-</div>
-</div>
+    ![Форма создания организации](/content/0_docs/2_admin/images/02_organizacii/11_kartochka_forma_sozdaniya.png)

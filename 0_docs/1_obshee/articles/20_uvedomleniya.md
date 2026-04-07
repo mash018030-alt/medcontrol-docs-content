@@ -61,22 +61,9 @@
 
 2.  Личный кабинет (Web) – отображаются в правом верхнем углу кабинета в АРМ, в разделе «Уведомления».
 
-<div class="docs-carousel">
-<input type="radio" name="carousel-uvedomleniya-web" id="carousel-uvedomleniya-web-1" checked>
-<input type="radio" name="carousel-uvedomleniya-web" id="carousel-uvedomleniya-web-2">
-<div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/20_uvedomleniya/02_ikonka_uvedomleniy_v_pravom_verhnem_uglu_k.png" alt="Иконка уведомлений в правом верхнем углу кабинета" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/20_uvedomleniya/03_panel_uvedomleniya_s_spiskom_uvedomleniy.png" alt="Панель «Уведомления» с списком уведомлений" /></div>
-</div>
-<div class="docs-carousel-nav">
-<span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>
-<span class="docs-carousel-dots">
-<label for="carousel-uvedomleniya-web-1" aria-label="Слайд 1">1</label>
-<label for="carousel-uvedomleniya-web-2" aria-label="Слайд 2">2</label>
-</span>
-<span class="docs-carousel-arrow docs-carousel-arrow-next" role="button" tabIndex="0" aria-label="Следующий слайд">›</span>
-</div>
-</div>
+    ![Иконка уведомлений в правом верхнем углу кабинета](/content/0_docs/1_obshee/images/20_uvedomleniya/02_ikonka_uvedomleniy_v_pravom_verhnem_uglu_k.png)
+
+    ![Панель «Уведомления» с списком уведомлений](/content/0_docs/1_obshee/images/20_uvedomleniya/03_panel_uvedomleniya_s_spiskom_uvedomleniy.png)
 
 3.  Telegram – уведомления приходят в Telegram, если Telegram-аккаунт привязан к учётной записи пользователя в АРМ / на ПАК (для работников).
 

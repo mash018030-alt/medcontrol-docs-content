@@ -25,7 +25,8 @@
 
 У этих осмотров будет заключение «Прошёл»/«Не прошёл».
 
-Таблица с условиями вынесения заключений:
+<details class="docs-disclosure">
+<summary>Условия вынесения заключений</summary>
 
 <table class="docs-table">
 <thead>
@@ -59,27 +60,15 @@
 </tbody>
 </table>
 
+</details>
+
 Дополнительно к заключению медработник при необходимости выбирает в интерфейсе замечания – медицинские, административные или технические.
 
-<div class="docs-carousel">
-<input type="radio" name="carousel-osmotry-zamechaniya" id="carousel-osmotry-zamechaniya-1" checked>
-<input type="radio" name="carousel-osmotry-zamechaniya" id="carousel-osmotry-zamechaniya-2">
-<input type="radio" name="carousel-osmotry-zamechaniya" id="carousel-osmotry-zamechaniya-3">
-<div class="docs-carousel-slides">
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/06_vozmozhnye_rezultaty_osmotrov/05_vybor_meditsinskih_zamechaniy_pri_vyneseni.png" alt="Выбор медицинских замечаний при вынесении заключения" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/06_vozmozhnye_rezultaty_osmotrov/06_vybor_administrativnyh_zamechaniy_kritichn.png" alt="Выбор административных замечаний: критичные и некритичные" /></div>
-<div class="docs-carousel-slide"><img src="/content/0_docs/1_obshee/images/06_vozmozhnye_rezultaty_osmotrov/07_vybor_tehnicheskih_zamechaniy_pri_vyneseni.png" alt="Выбор технических замечаний при вынесении заключения" /></div>
-</div>
-<div class="docs-carousel-nav">
-<span class="docs-carousel-arrow docs-carousel-arrow-prev" role="button" tabIndex="0" aria-label="Предыдущий слайд">‹</span>
-<span class="docs-carousel-dots">
-<label for="carousel-osmotry-zamechaniya-1" aria-label="Медицинские замечания">1</label>
-<label for="carousel-osmotry-zamechaniya-2" aria-label="Административные замечания">2</label>
-<label for="carousel-osmotry-zamechaniya-3" aria-label="Технические замечания">3</label>
-</span>
-<span class="docs-carousel-arrow docs-carousel-arrow-next" role="button" tabIndex="0" aria-label="Следующий слайд">›</span>
-</div>
-</div>
+![Выбор медицинских замечаний при вынесении заключения](/content/0_docs/1_obshee/images/06_vozmozhnye_rezultaty_osmotrov/05_vybor_meditsinskih_zamechaniy_pri_vyneseni.png)
+
+![Выбор административных замечаний: критичные и некритичные](/content/0_docs/1_obshee/images/06_vozmozhnye_rezultaty_osmotrov/06_vybor_administrativnyh_zamechaniy_kritichn.png)
+
+![Выбор технических замечаний при вынесении заключения](/content/0_docs/1_obshee/images/06_vozmozhnye_rezultaty_osmotrov/07_vybor_tehnicheskih_zamechaniy_pri_vyneseni.png)
 
 Система автоматически определяет итоговый результат осмотра – на основании замечаний медработника и их приоритетности.
 
